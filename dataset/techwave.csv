@@ -1,0 +1,1001 @@
+UsuarioID,Nota,Produto,Categoria,Regiao,Idade,Preco,DataCompra,Quantidade,FormaPagamento,Desconto
+USER0000,2,Roteador,Redes,Norte,49,1065.07,07/05/2023,5,Boleto,16.94
+USER0001,2,Televisão,Eletrônicos,Norte,35,469.02,11/06/2023,4,Boleto,0.0
+USER0002,1,Controle de Acesso,Segurança,Centro-Oeste,41,3927.77,21/07/2023,5,Cartão de Crédito,0.0
+USER0003,4,Alarme,Segurança,Sudeste,22,2457.26,06/11/2023,6,Pix,78.11
+USER0004,3,Repetidor,Redes,Norte,42,2188.64,29/05/2023,3,Boleto,0.0
+USER0005,1,CLP,Automação,Sul,66,3315.78,15/09/2023,9,Pix,0.0
+USER0006,2,Servo Motor,Automação,Nordeste,67,2558.18,23/02/2023,6,Pix,62.98
+USER0007,4,Smartphone,Eletrônicos,Nordeste,20,2855.84,12/08/2023,2,Transferência Bancária,0.0
+USER0008,2,Atuador,Automação,Sudeste,60,3055.14,27/09/2023,1,Transferência Bancária,0.0
+USER0009,2,Repetidor,Redes,Sul,18,302.49,06/04/2023,5,Dinheiro,82.22
+USER0010,3,Controlador,Automação,Sul,46,1590.64,17/04/2023,6,Transferência Bancária,341.85
+USER0011,2,CLP,Automação,Nordeste,48,4058.73,22/12/2023,1,Dinheiro,0.0
+USER0012,3,Monitor,Informática,Centro-Oeste,69,1082.73,12/04/2023,9,Boleto,0.0
+USER0013,2,Televisão,Eletrônicos,Sul,29,1647.09,26/10/2023,4,Cartão de Crédito,0.0
+USER0014,5,Servo Motor,Automação,Sudeste,56,1810.93,03/09/2023,9,Cartão de Crédito,145.59
+USER0015,4,Notebook,Informática,Centro-Oeste,34,893.11,18/08/2023,1,Pix,218.46
+USER0016,5,Sensor de Movimento,Robótica,Nordeste,42,655.31,12/04/2023,6,Cartão de Crédito,0.0
+USER0017,5,Switch,Redes,Sudeste,44,3284.34,23/07/2023,2,Dinheiro,273.91
+USER0018,1,Controlador,Automação,Sul,29,4052.16,19/04/2023,1,Cartão de Crédito,0.0
+USER0019,5,CLP,Automação,Sul,49,4548.43,02/03/2023,6,Dinheiro,357.79
+USER0020,3,Sensor,Automação,Nordeste,19,1848.38,02/05/2023,9,Pix,0.0
+USER0021,2,Fechadura Digital,Segurança,Sudeste,50,2873.14,21/10/2023,3,Pix,689.92
+USER0022,2,Motor de Passo,Robótica,Centro-Oeste,69,4579.77,21/12/2023,4,Pix,0.0
+USER0023,1,CLP,Automação,Norte,54,1171.29,09/05/2023,7,Pix,0.0
+USER0024,3,Sensor,Automação,Centro-Oeste,20,3132.23,06/10/2023,6,Dinheiro,530.66
+USER0025,2,Controlador,Automação,Norte,58,1316.33,23/05/2023,3,Cartão de Crédito,94.19
+USER0026,4,Controlador,Automação,Norte,29,3781.83,20/02/2023,6,Cartão de Crédito,0.0
+USER0027,4,Drone,Eletrônicos,Sudeste,42,4146.77,02/06/2023,7,Pix,0.0
+USER0028,3,Televisão,Eletrônicos,Sudeste,49,2849.24,20/03/2023,7,Cartão de Crédito,0.0
+USER0029,5,CLP,Automação,Norte,43,508.47,03/11/2023,6,Dinheiro,0.0
+USER0030,5,Fechadura Digital,Segurança,Sul,43,2331.06,31/12/2023,4,Transferência Bancária,480.28
+USER0031,3,Tablet,Eletrônicos,Nordeste,61,4314.32,19/05/2023,7,Dinheiro,0.0
+USER0032,4,Monitor,Informática,Centro-Oeste,41,1390.79,10/06/2023,9,Dinheiro,204.14
+USER0033,5,Motor de Passo,Robótica,Nordeste,28,2755.33,29/06/2023,3,Pix,0.0
+USER0034,5,Roteador,Redes,Sudeste,45,270.51,18/05/2023,5,Pix,0.0
+USER0035,3,Controlador,Automação,Sul,25,4073.28,12/05/2023,9,Boleto,168.39
+USER0036,3,Motor de Passo,Robótica,Sudeste,31,2141.4,23/05/2023,3,Cartão de Crédito,108.59
+USER0037,2,Smartwatch,Eletrônicos,Sul,61,4001.14,26/10/2023,1,Cartão de Crédito,1057.57
+USER0038,2,Atuador,Automação,Nordeste,50,4179.0,16/02/2023,7,Pix,478.96
+USER0039,2,Smartphone,Eletrônicos,Nordeste,21,1219.24,06/10/2023,5,Transferência Bancária,75.3
+USER0040,2,Smartphone,Eletrônicos,Nordeste,50,157.9,17/07/2023,8,Transferência Bancária,0.0
+USER0041,1,Smartwatch,Eletrônicos,Centro-Oeste,41,1008.91,27/04/2023,5,Dinheiro,100.19
+USER0042,2,Atuador,Automação,Norte,27,4818.82,12/08/2023,8,Cartão de Crédito,195.7
+USER0043,5,Alarme,Segurança,Centro-Oeste,54,904.65,18/02/2023,2,Dinheiro,0.0
+USER0044,2,Sensor de Movimento,Robótica,Sudeste,41,2389.26,20/04/2023,3,Cartão de Crédito,118.88
+USER0045,1,Fechadura Digital,Segurança,Centro-Oeste,39,4332.45,16/07/2023,1,Cartão de Crédito,1244.05
+USER0046,1,Smartwatch,Eletrônicos,Sul,59,3980.94,18/07/2023,1,Cartão de Crédito,0.0
+USER0047,5,Servo Motor,Automação,Sudeste,31,3708.43,07/05/2023,4,Transferência Bancária,839.1
+USER0048,1,Kit de Montagem,Robótica,Sudeste,68,923.24,21/12/2023,6,Cartão de Crédito,0.0
+USER0049,2,Braço Robótico,Robótica,Centro-Oeste,61,4462.75,26/02/2023,3,Dinheiro,760.17
+USER0050,4,Servo Motor,Automação,Centro-Oeste,43,887.26,20/11/2023,4,Transferência Bancária,149.58
+USER0051,4,Smartwatch,Eletrônicos,Norte,19,3569.97,27/12/2023,2,Dinheiro,0.0
+USER0052,2,Alarme,Segurança,Centro-Oeste,27,2170.2,17/11/2023,3,Boleto,0.0
+USER0053,1,Controlador,Automação,Sul,68,3780.78,13/09/2023,3,Cartão de Crédito,0.0
+USER0054,5,Modem,Redes,Nordeste,42,2296.73,11/01/2023,5,Pix,0.0
+USER0055,5,Controle de Acesso,Segurança,Sudeste,67,2854.96,07/05/2023,5,Dinheiro,0.0
+USER0056,3,Tablet,Eletrônicos,Sudeste,59,2513.19,06/05/2023,7,Boleto,0.0
+USER0057,3,Motor de Passo,Robótica,Sudeste,32,1514.08,16/02/2023,6,Pix,0.0
+USER0058,4,Drone,Eletrônicos,Centro-Oeste,56,1999.87,20/08/2023,3,Boleto,0.0
+USER0059,3,Switch,Redes,Sul,45,4896.77,11/07/2023,7,Transferência Bancária,0.0
+USER0060,3,Teclado,Informática,Sudeste,29,3353.72,23/09/2023,2,Pix,200.78
+USER0061,3,Drone,Eletrônicos,Centro-Oeste,39,1777.51,28/03/2023,9,Pix,0.0
+USER0062,1,Desktop,Informática,Sudeste,67,3121.58,16/08/2023,1,Transferência Bancária,100.22
+USER0063,3,Fechadura Digital,Segurança,Nordeste,38,2405.82,08/06/2023,2,Dinheiro,0.0
+USER0064,2,Controle de Acesso,Segurança,Nordeste,30,3765.88,05/05/2023,4,Dinheiro,0.0
+USER0065,2,Controle de Acesso,Segurança,Centro-Oeste,65,3553.37,28/11/2023,2,Cartão de Crédito,0.0
+USER0066,4,Alarme,Segurança,Sul,34,230.64,31/01/2023,8,Cartão de Crédito,42.72
+USER0067,1,Smartwatch,Eletrônicos,Centro-Oeste,39,3159.5,06/02/2023,2,Pix,0.0
+USER0068,1,Tablet,Eletrônicos,Centro-Oeste,59,1647.44,25/01/2023,5,Dinheiro,468.88
+USER0069,3,Drone,Eletrônicos,Centro-Oeste,47,1358.09,14/06/2023,9,Dinheiro,0.0
+USER0070,5,Access Point,Redes,Centro-Oeste,65,2400.29,30/01/2023,8,Boleto,0.0
+USER0071,1,Impressora,Informática,Centro-Oeste,59,3907.08,11/10/2023,3,Transferência Bancária,0.0
+USER0072,5,Modem,Redes,Sul,35,3088.6,01/09/2023,6,Boleto,0.0
+USER0073,4,Placa Controladora,Robótica,Sudeste,33,4711.32,03/04/2023,6,Boleto,1369.47
+USER0074,1,Kit de Montagem,Robótica,Nordeste,49,2404.91,22/09/2023,4,Transferência Bancária,554.19
+USER0075,5,Alarme,Segurança,Sul,50,3259.71,17/04/2023,4,Cartão de Crédito,0.0
+USER0076,5,Servo Motor,Automação,Sudeste,26,2431.62,08/02/2023,1,Boleto,0.0
+USER0077,2,Fechadura Digital,Segurança,Nordeste,57,2430.57,11/04/2023,4,Cartão de Crédito,0.0
+USER0078,1,Switch,Redes,Centro-Oeste,61,4750.06,11/09/2023,5,Transferência Bancária,0.0
+USER0079,1,Controle de Acesso,Segurança,Norte,68,684.24,04/07/2023,4,Boleto,0.0
+USER0080,3,Braço Robótico,Robótica,Centro-Oeste,24,2532.87,12/04/2023,6,Boleto,737.69
+USER0081,4,Placa Controladora,Robótica,Sul,42,3919.02,30/03/2023,8,Dinheiro,414.13
+USER0082,5,Monitor,Informática,Nordeste,27,1425.18,31/07/2023,1,Transferência Bancária,0.0
+USER0083,2,Sensor,Automação,Sul,57,2093.85,17/11/2023,9,Transferência Bancária,0.0
+USER0084,3,CLP,Automação,Nordeste,33,4783.58,13/06/2023,3,Cartão de Crédito,313.31
+USER0085,2,Sensor,Automação,Sul,57,1226.12,31/12/2023,2,Cartão de Crédito,147.6
+USER0086,3,Switch,Redes,Centro-Oeste,60,2190.93,11/06/2023,5,Transferência Bancária,289.52
+USER0087,2,Atuador,Automação,Sul,19,1111.19,10/11/2023,1,Dinheiro,0.0
+USER0088,3,Sensor de Movimento,Robótica,Norte,40,250.66,05/02/2023,3,Boleto,0.47
+USER0089,4,Fechadura Digital,Segurança,Sudeste,54,2818.32,07/04/2023,5,Boleto,172.03
+USER0090,1,Switch,Redes,Nordeste,49,961.37,12/02/2023,8,Dinheiro,0.0
+USER0091,5,Televisão,Eletrônicos,Norte,27,2591.44,02/10/2023,3,Pix,534.47
+USER0092,3,Roteador,Redes,Sul,28,3042.95,17/11/2023,9,Dinheiro,856.76
+USER0093,2,Sensor de Movimento,Robótica,Sul,20,1547.41,22/11/2023,3,Boleto,0.0
+USER0094,5,Braço Robótico,Robótica,Nordeste,40,3932.33,22/01/2023,4,Transferência Bancária,0.0
+USER0095,5,Motor de Passo,Robótica,Centro-Oeste,40,4768.65,04/04/2023,4,Cartão de Crédito,561.33
+USER0096,5,Sensor de Movimento,Robótica,Centro-Oeste,65,4251.16,06/03/2023,4,Pix,321.17
+USER0097,1,Switch,Redes,Centro-Oeste,48,2601.37,29/08/2023,8,Dinheiro,3.81
+USER0098,4,Impressora,Informática,Norte,55,3271.58,24/02/2023,9,Transferência Bancária,0.0
+USER0099,5,CLP,Automação,Centro-Oeste,57,4957.91,29/08/2023,4,Pix,534.08
+USER0100,2,Sensor de Movimento,Robótica,Nordeste,59,2406.33,13/06/2023,6,Pix,0.0
+USER0101,1,Desktop,Informática,Nordeste,24,3057.84,15/11/2023,9,Dinheiro,275.77
+USER0102,4,Kit de Montagem,Robótica,Sul,60,4008.46,27/05/2023,3,Boleto,488.61
+USER0103,4,CLP,Automação,Nordeste,36,345.21,01/02/2023,3,Cartão de Crédito,0.0
+USER0104,5,Sensor,Automação,Sul,25,389.57,07/10/2023,5,Boleto,0.0
+USER0105,5,Placa Controladora,Robótica,Norte,38,2649.53,11/11/2023,8,Pix,353.11
+USER0106,4,Braço Robótico,Robótica,Norte,64,2478.72,26/05/2023,9,Dinheiro,0.0
+USER0107,5,Access Point,Redes,Nordeste,48,270.94,12/04/2023,4,Pix,6.69
+USER0108,4,Notebook,Informática,Nordeste,32,3520.01,16/12/2023,2,Transferência Bancária,675.83
+USER0109,2,Motor de Passo,Robótica,Sul,47,676.74,03/10/2023,5,Pix,0.0
+USER0110,3,Alarme,Segurança,Norte,45,2673.09,23/07/2023,4,Cartão de Crédito,114.07
+USER0111,1,Repetidor,Redes,Norte,55,287.77,11/03/2023,5,Boleto,73.9
+USER0112,3,Controlador,Automação,Nordeste,66,4881.94,08/11/2023,8,Transferência Bancária,0.0
+USER0113,5,Repetidor,Redes,Nordeste,45,4675.73,28/06/2023,4,Pix,0.0
+USER0114,5,Sensor,Automação,Nordeste,61,3889.44,05/07/2023,5,Pix,0.0
+USER0115,1,Smartwatch,Eletrônicos,Centro-Oeste,52,1725.82,19/09/2023,5,Dinheiro,490.29
+USER0116,2,CLP,Automação,Sul,46,775.04,18/03/2023,7,Dinheiro,155.86
+USER0117,1,Televisão,Eletrônicos,Sul,66,1840.8,04/10/2023,9,Dinheiro,297.79
+USER0118,4,Drone,Eletrônicos,Norte,36,283.15,12/03/2023,2,Cartão de Crédito,0.0
+USER0119,4,Notebook,Informática,Norte,37,59.82,26/02/2023,5,Transferência Bancária,4.5
+USER0120,4,Motor de Passo,Robótica,Sudeste,61,2269.64,31/03/2023,8,Boleto,147.34
+USER0121,4,Drone,Eletrônicos,Sudeste,44,336.99,06/08/2023,2,Pix,0.0
+USER0122,5,Switch,Redes,Sudeste,47,4521.95,30/04/2023,8,Boleto,0.0
+USER0123,2,Placa Controladora,Robótica,Sul,29,2255.07,27/05/2023,2,Cartão de Crédito,0.0
+USER0124,3,Motor de Passo,Robótica,Nordeste,38,960.23,22/12/2023,2,Pix,112.99
+USER0125,4,Access Point,Redes,Centro-Oeste,56,2201.53,09/09/2023,5,Boleto,473.08
+USER0126,4,Câmera,Segurança,Centro-Oeste,18,3343.61,03/10/2023,9,Boleto,0.0
+USER0127,4,Switch,Redes,Sul,34,1884.98,17/07/2023,2,Pix,0.0
+USER0128,5,Impressora,Informática,Centro-Oeste,29,4958.6,11/10/2023,2,Dinheiro,276.36
+USER0129,4,Atuador,Automação,Centro-Oeste,41,4288.68,04/05/2023,8,Dinheiro,0.0
+USER0130,5,Atuador,Automação,Sul,32,118.2,03/06/2023,2,Dinheiro,0.0
+USER0131,5,Servo Motor,Automação,Sul,52,3433.9,01/11/2023,7,Dinheiro,0.0
+USER0132,3,Switch,Redes,Norte,33,4576.97,14/06/2023,5,Transferência Bancária,0.0
+USER0133,5,Kit de Montagem,Robótica,Nordeste,41,3371.1,29/07/2023,9,Boleto,0.0
+USER0134,5,Tablet,Eletrônicos,Nordeste,50,553.69,09/08/2023,1,Cartão de Crédito,0.0
+USER0135,2,Placa Controladora,Robótica,Nordeste,60,3180.97,17/06/2023,1,Cartão de Crédito,0.0
+USER0136,3,Motor de Passo,Robótica,Nordeste,26,1862.26,07/09/2023,5,Transferência Bancária,52.41
+USER0137,5,Controle de Acesso,Segurança,Nordeste,49,110.78,30/03/2023,8,Pix,0.0
+USER0138,3,Controle de Acesso,Segurança,Sudeste,30,4978.05,30/06/2023,2,Transferência Bancária,0.0
+USER0139,3,Tablet,Eletrônicos,Centro-Oeste,44,3008.99,30/03/2023,7,Dinheiro,828.45
+USER0140,3,Motor de Passo,Robótica,Norte,50,1730.56,05/05/2023,2,Pix,0.0
+USER0141,3,Roteador,Redes,Norte,42,4951.99,05/08/2023,9,Dinheiro,0.0
+USER0142,3,Sensor de Movimento,Robótica,Nordeste,29,4747.8,22/06/2023,4,Dinheiro,205.91
+USER0143,1,Detector de Fumaça,Segurança,Sul,35,242.71,26/09/2023,4,Dinheiro,51.22
+USER0144,3,Repetidor,Redes,Centro-Oeste,68,4461.88,25/11/2023,8,Cartão de Crédito,0.0
+USER0145,5,Drone,Eletrônicos,Nordeste,29,4399.29,14/05/2023,2,Boleto,0.0
+USER0146,3,Desktop,Informática,Sul,20,4582.14,28/04/2023,3,Pix,0.0
+USER0147,4,Kit de Montagem,Robótica,Nordeste,66,4038.59,03/08/2023,1,Transferência Bancária,0.0
+USER0148,4,Smartphone,Eletrônicos,Nordeste,28,4303.51,29/11/2023,3,Boleto,0.0
+USER0149,2,Controle de Acesso,Segurança,Centro-Oeste,59,4180.67,12/08/2023,8,Dinheiro,128.65
+USER0150,5,Teclado,Informática,Centro-Oeste,34,4644.71,17/06/2023,4,Cartão de Crédito,0.0
+USER0151,5,Fechadura Digital,Segurança,Sudeste,29,3889.77,02/10/2023,9,Boleto,943.86
+USER0152,2,Monitor,Informática,Norte,40,3063.07,28/04/2023,3,Dinheiro,308.22
+USER0153,2,Fechadura Digital,Segurança,Nordeste,45,3280.31,08/01/2023,6,Dinheiro,0.0
+USER0154,3,Sensor de Movimento,Robótica,Nordeste,28,4800.25,03/12/2023,3,Transferência Bancária,0.0
+USER0155,3,Placa Controladora,Robótica,Centro-Oeste,64,4740.8,17/10/2023,2,Pix,89.05
+USER0156,2,Controle de Acesso,Segurança,Nordeste,44,1462.48,12/03/2023,5,Transferência Bancária,0.0
+USER0157,4,Roteador,Redes,Centro-Oeste,38,510.06,12/03/2023,5,Pix,0.0
+USER0158,1,Controle de Acesso,Segurança,Sudeste,57,568.5,22/08/2023,9,Pix,95.94
+USER0159,2,Tablet,Eletrônicos,Sul,22,604.84,24/10/2023,9,Boleto,0.0
+USER0160,2,Switch,Redes,Centro-Oeste,36,813.44,02/12/2023,6,Pix,173.7
+USER0161,5,Servo Motor,Automação,Centro-Oeste,18,1927.85,17/05/2023,5,Transferência Bancária,297.38
+USER0162,1,Smartwatch,Eletrônicos,Norte,21,4047.37,13/12/2023,7,Dinheiro,1113.45
+USER0163,1,Controlador,Automação,Sudeste,65,2288.69,24/10/2023,3,Transferência Bancária,603.64
+USER0164,4,Repetidor,Redes,Nordeste,66,3425.33,26/08/2023,9,Dinheiro,0.0
+USER0165,1,Roteador,Redes,Norte,35,913.08,14/09/2023,4,Transferência Bancária,0.0
+USER0166,4,CLP,Automação,Centro-Oeste,32,594.18,08/02/2023,8,Boleto,0.0
+USER0167,4,Kit de Montagem,Robótica,Nordeste,34,1938.31,22/12/2023,8,Transferência Bancária,0.0
+USER0168,3,Controlador,Automação,Centro-Oeste,31,1647.8,29/11/2023,1,Cartão de Crédito,0.0
+USER0169,2,Atuador,Automação,Norte,27,2277.25,02/07/2023,1,Boleto,0.0
+USER0170,1,Access Point,Redes,Nordeste,60,4142.29,09/11/2023,7,Cartão de Crédito,590.0
+USER0171,4,Desktop,Informática,Sul,68,243.99,08/11/2023,7,Cartão de Crédito,67.22
+USER0172,2,Kit de Montagem,Robótica,Nordeste,49,1839.85,26/04/2023,5,Dinheiro,170.68
+USER0173,1,Impressora,Informática,Norte,25,2473.33,03/10/2023,4,Boleto,315.26
+USER0174,3,Desktop,Informática,Sudeste,66,1607.34,08/10/2023,4,Pix,0.0
+USER0175,3,Notebook,Informática,Nordeste,34,576.3,10/09/2023,2,Dinheiro,0.0
+USER0176,5,Switch,Redes,Sul,21,2751.54,02/06/2023,4,Dinheiro,0.0
+USER0177,4,Smartphone,Eletrônicos,Centro-Oeste,19,390.42,30/05/2023,2,Pix,91.06
+USER0178,2,Fechadura Digital,Segurança,Norte,48,2120.88,26/05/2023,4,Boleto,0.0
+USER0179,5,Monitor,Informática,Sudeste,62,3193.4,04/06/2023,6,Pix,0.0
+USER0180,3,Controlador,Automação,Sul,48,3666.47,04/06/2023,4,Cartão de Crédito,0.0
+USER0181,4,Switch,Redes,Centro-Oeste,25,1964.26,18/05/2023,7,Boleto,0.0
+USER0182,2,Televisão,Eletrônicos,Norte,49,1139.66,26/07/2023,3,Cartão de Crédito,0.0
+USER0183,5,Smartphone,Eletrônicos,Sul,30,1937.65,15/10/2023,3,Pix,541.12
+USER0184,5,Switch,Redes,Centro-Oeste,34,3752.79,12/03/2023,1,Cartão de Crédito,0.0
+USER0185,3,CLP,Automação,Sudeste,61,4490.23,30/01/2023,3,Boleto,0.0
+USER0186,2,Alarme,Segurança,Norte,34,2587.08,10/10/2023,2,Pix,422.39
+USER0187,2,Servo Motor,Automação,Sudeste,18,1614.0,12/11/2023,5,Pix,0.0
+USER0188,2,Smartphone,Eletrônicos,Norte,27,4167.14,30/11/2023,3,Pix,0.0
+USER0189,4,Roteador,Redes,Sudeste,44,908.49,16/09/2023,2,Dinheiro,186.0
+USER0190,4,Teclado,Informática,Sul,38,3555.83,03/03/2023,2,Pix,0.0
+USER0191,1,Switch,Redes,Sudeste,63,637.24,16/05/2023,2,Boleto,63.06
+USER0192,3,Detector de Fumaça,Segurança,Nordeste,20,2224.98,08/08/2023,4,Boleto,0.0
+USER0193,1,Fechadura Digital,Segurança,Sul,40,1922.53,20/06/2023,8,Transferência Bancária,369.41
+USER0194,2,Câmera,Segurança,Nordeste,43,3115.68,07/12/2023,2,Dinheiro,756.08
+USER0195,3,Smartphone,Eletrônicos,Nordeste,68,1589.11,12/06/2023,2,Boleto,0.0
+USER0196,4,Controle de Acesso,Segurança,Norte,23,570.79,23/04/2023,8,Boleto,19.96
+USER0197,1,Controlador,Automação,Sudeste,40,3449.36,14/12/2023,9,Boleto,0.0
+USER0198,4,Sensor,Automação,Centro-Oeste,32,2908.79,31/01/2023,1,Boleto,0.0
+USER0199,4,Tablet,Eletrônicos,Centro-Oeste,23,1163.44,05/09/2023,2,Boleto,0.0
+USER0200,5,Smartphone,Eletrônicos,Centro-Oeste,21,3546.0,11/12/2023,6,Transferência Bancária,0.0
+USER0201,3,Sensor de Movimento,Robótica,Centro-Oeste,26,999.56,08/08/2023,5,Boleto,68.5
+USER0202,5,Detector de Fumaça,Segurança,Norte,26,475.48,26/11/2023,1,Boleto,0.0
+USER0203,5,Smartwatch,Eletrônicos,Nordeste,28,3499.46,27/07/2023,3,Boleto,0.0
+USER0204,1,Detector de Fumaça,Segurança,Sudeste,40,3833.95,26/07/2023,5,Dinheiro,0.0
+USER0205,1,Controlador,Automação,Nordeste,47,2897.57,02/08/2023,7,Pix,0.0
+USER0206,2,Motor de Passo,Robótica,Norte,19,1648.57,04/05/2023,2,Boleto,82.06
+USER0207,2,Motor de Passo,Robótica,Norte,35,4986.07,01/07/2023,1,Transferência Bancária,536.43
+USER0208,3,Modem,Redes,Nordeste,18,2988.33,27/09/2023,5,Cartão de Crédito,454.21
+USER0209,5,Câmera,Segurança,Norte,41,1297.48,14/06/2023,4,Cartão de Crédito,313.96
+USER0210,3,Teclado,Informática,Centro-Oeste,57,666.93,26/08/2023,8,Dinheiro,72.04
+USER0211,1,Braço Robótico,Robótica,Sudeste,21,3694.54,07/05/2023,9,Transferência Bancária,0.0
+USER0212,2,Câmera,Segurança,Centro-Oeste,29,1347.34,17/01/2023,1,Dinheiro,339.09
+USER0213,1,Braço Robótico,Robótica,Centro-Oeste,26,4449.8,12/06/2023,8,Pix,0.0
+USER0214,4,Motor de Passo,Robótica,Norte,20,832.0,08/10/2023,4,Pix,0.0
+USER0215,1,Repetidor,Redes,Centro-Oeste,40,2231.57,03/02/2023,2,Transferência Bancária,0.0
+USER0216,1,Desktop,Informática,Centro-Oeste,66,2981.14,17/05/2023,5,Transferência Bancária,438.77
+USER0217,2,Servo Motor,Automação,Norte,64,488.35,06/02/2023,5,Boleto,104.07
+USER0218,3,Roteador,Redes,Nordeste,18,2909.86,09/06/2023,4,Cartão de Crédito,867.62
+USER0219,5,Fechadura Digital,Segurança,Sul,32,3710.81,17/07/2023,9,Cartão de Crédito,248.57
+USER0220,2,Tablet,Eletrônicos,Nordeste,28,921.73,04/10/2023,3,Cartão de Crédito,0.0
+USER0221,3,Detector de Fumaça,Segurança,Sudeste,29,1793.67,24/02/2023,1,Transferência Bancária,0.0
+USER0222,4,Modem,Redes,Nordeste,39,2291.61,12/04/2023,3,Boleto,0.0
+USER0223,4,Atuador,Automação,Sudeste,56,1440.12,30/09/2023,5,Cartão de Crédito,76.53
+USER0224,2,Sensor de Movimento,Robótica,Nordeste,33,3214.38,21/11/2023,8,Pix,0.0
+USER0225,1,Sensor,Automação,Nordeste,54,3195.75,05/09/2023,9,Pix,0.0
+USER0226,4,Repetidor,Redes,Sul,41,1004.17,26/10/2023,2,Dinheiro,0.0
+USER0227,3,Câmera,Segurança,Sudeste,53,4589.61,06/07/2023,7,Pix,664.42
+USER0228,5,Roteador,Redes,Sul,48,127.91,09/03/2023,2,Pix,0.0
+USER0229,2,Servo Motor,Automação,Norte,28,3865.02,15/02/2023,8,Pix,1014.9
+USER0230,3,Sensor de Movimento,Robótica,Centro-Oeste,49,878.89,27/03/2023,4,Cartão de Crédito,23.85
+USER0231,4,Televisão,Eletrônicos,Norte,39,2284.12,30/03/2023,2,Transferência Bancária,600.02
+USER0232,1,Roteador,Redes,Sul,48,1204.82,18/04/2023,2,Boleto,138.64
+USER0233,1,CLP,Automação,Norte,68,3806.02,24/11/2023,2,Transferência Bancária,747.29
+USER0234,1,Impressora,Informática,Nordeste,55,1237.66,29/03/2023,8,Pix,313.95
+USER0235,1,Repetidor,Redes,Sudeste,19,523.63,26/07/2023,6,Dinheiro,0.0
+USER0236,4,Repetidor,Redes,Norte,25,3425.43,04/03/2023,1,Transferência Bancária,0.0
+USER0237,1,Smartwatch,Eletrônicos,Sudeste,33,63.5,26/07/2023,3,Cartão de Crédito,0.0
+USER0238,1,Braço Robótico,Robótica,Norte,18,269.65,31/08/2023,9,Boleto,60.05
+USER0239,2,Switch,Redes,Centro-Oeste,25,4753.08,03/11/2023,7,Boleto,0.0
+USER0240,2,Motor de Passo,Robótica,Nordeste,21,1627.16,02/02/2023,2,Transferência Bancária,0.0
+USER0241,2,Sensor,Automação,Sul,63,839.77,14/01/2023,3,Dinheiro,0.0
+USER0242,5,Smartwatch,Eletrônicos,Nordeste,30,2252.68,15/11/2023,4,Cartão de Crédito,505.18
+USER0243,4,Controle de Acesso,Segurança,Nordeste,45,4420.2,24/02/2023,4,Boleto,368.52
+USER0244,5,Access Point,Redes,Sudeste,19,1448.94,11/03/2023,9,Pix,177.08
+USER0245,5,Atuador,Automação,Sudeste,67,4576.48,20/05/2023,7,Cartão de Crédito,0.0
+USER0246,1,Notebook,Informática,Sul,36,1092.9,01/04/2023,6,Transferência Bancária,248.73
+USER0247,5,Kit de Montagem,Robótica,Nordeste,39,1504.75,13/03/2023,1,Dinheiro,272.8
+USER0248,5,Detector de Fumaça,Segurança,Norte,49,3660.59,05/09/2023,8,Dinheiro,0.0
+USER0249,1,Smartphone,Eletrônicos,Nordeste,22,3097.47,09/07/2023,2,Transferência Bancária,293.46
+USER0250,1,Roteador,Redes,Norte,22,839.93,01/10/2023,4,Transferência Bancária,0.0
+USER0251,2,Câmera,Segurança,Nordeste,50,4333.62,29/09/2023,8,Boleto,0.0
+USER0252,4,Atuador,Automação,Sul,39,3549.48,18/02/2023,6,Transferência Bancária,0.0
+USER0253,5,Braço Robótico,Robótica,Nordeste,44,2134.81,03/12/2023,8,Transferência Bancária,0.0
+USER0254,4,Televisão,Eletrônicos,Sul,26,3383.55,05/03/2023,7,Transferência Bancária,0.0
+USER0255,5,Fechadura Digital,Segurança,Sul,60,2298.66,30/11/2023,3,Boleto,414.92
+USER0256,5,Servo Motor,Automação,Sul,63,1481.13,25/01/2023,5,Dinheiro,57.65
+USER0257,3,CLP,Automação,Sudeste,19,1285.31,15/11/2023,4,Pix,0.0
+USER0258,2,Notebook,Informática,Norte,38,1726.06,01/11/2023,7,Transferência Bancária,249.47
+USER0259,4,Sensor,Automação,Nordeste,62,4017.56,26/06/2023,9,Transferência Bancária,0.0
+USER0260,1,Smartwatch,Eletrônicos,Sudeste,25,3658.73,17/12/2023,2,Cartão de Crédito,719.52
+USER0261,5,Fechadura Digital,Segurança,Centro-Oeste,32,4388.57,09/07/2023,9,Cartão de Crédito,0.0
+USER0262,4,Controle de Acesso,Segurança,Centro-Oeste,59,2132.24,25/04/2023,5,Transferência Bancária,0.0
+USER0263,3,Access Point,Redes,Sudeste,49,3082.47,17/08/2023,8,Transferência Bancária,107.54
+USER0264,2,Monitor,Informática,Sul,30,3405.96,10/01/2023,5,Dinheiro,816.53
+USER0265,5,Tablet,Eletrônicos,Sul,46,4037.63,07/05/2023,8,Dinheiro,1025.05
+USER0266,5,Sensor,Automação,Sul,20,4543.01,21/04/2023,8,Pix,0.0
+USER0267,2,Câmera,Segurança,Norte,50,4826.93,11/02/2023,5,Cartão de Crédito,86.6
+USER0268,4,Access Point,Redes,Norte,28,82.72,12/07/2023,1,Cartão de Crédito,20.94
+USER0269,2,Notebook,Informática,Sul,57,4439.94,04/11/2023,4,Cartão de Crédito,1166.95
+USER0270,1,Switch,Redes,Nordeste,21,1564.83,15/04/2023,4,Transferência Bancária,0.0
+USER0271,5,Access Point,Redes,Sul,39,2558.74,11/01/2023,7,Boleto,0.0
+USER0272,2,Smartwatch,Eletrônicos,Centro-Oeste,62,3821.34,10/08/2023,7,Cartão de Crédito,0.0
+USER0273,4,Notebook,Informática,Norte,41,1152.38,20/09/2023,1,Cartão de Crédito,0.0
+USER0274,2,Placa Controladora,Robótica,Nordeste,33,716.9,26/08/2023,7,Dinheiro,118.12
+USER0275,1,Tablet,Eletrônicos,Centro-Oeste,28,1732.03,12/11/2023,2,Transferência Bancária,0.0
+USER0276,1,Notebook,Informática,Sudeste,53,4014.52,18/05/2023,7,Transferência Bancária,551.22
+USER0277,1,Atuador,Automação,Centro-Oeste,18,1886.18,07/09/2023,2,Dinheiro,0.0
+USER0278,3,Smartwatch,Eletrônicos,Sudeste,37,3864.75,12/11/2023,3,Boleto,419.31
+USER0279,1,Sensor de Movimento,Robótica,Sul,60,1620.77,21/05/2023,7,Dinheiro,0.0
+USER0280,4,Televisão,Eletrônicos,Sul,60,1261.43,11/10/2023,1,Transferência Bancária,0.0
+USER0281,4,Drone,Eletrônicos,Sul,53,1941.75,12/03/2023,2,Cartão de Crédito,0.0
+USER0282,4,Braço Robótico,Robótica,Norte,66,2283.49,14/02/2023,2,Boleto,0.0
+USER0283,1,Notebook,Informática,Centro-Oeste,42,1553.27,06/06/2023,6,Boleto,0.0
+USER0284,3,Atuador,Automação,Sudeste,47,4123.27,07/01/2023,3,Cartão de Crédito,179.19
+USER0285,2,Modem,Redes,Sul,38,531.19,08/12/2023,3,Pix,68.56
+USER0286,1,Switch,Redes,Norte,30,3959.51,30/10/2023,1,Cartão de Crédito,244.21
+USER0287,3,Access Point,Redes,Nordeste,49,4608.63,21/12/2023,6,Dinheiro,0.0
+USER0288,1,Sensor,Automação,Centro-Oeste,51,2303.37,12/05/2023,7,Boleto,0.0
+USER0289,5,Drone,Eletrônicos,Centro-Oeste,46,4857.73,22/07/2023,8,Dinheiro,0.0
+USER0290,1,Notebook,Informática,Centro-Oeste,53,2186.19,17/10/2023,5,Transferência Bancária,0.0
+USER0291,2,Impressora,Informática,Norte,69,284.83,06/10/2023,9,Boleto,0.0
+USER0292,2,Drone,Eletrônicos,Nordeste,19,2465.76,18/10/2023,8,Pix,0.0
+USER0293,1,Notebook,Informática,Centro-Oeste,65,4168.54,19/09/2023,9,Dinheiro,0.0
+USER0294,5,Sensor,Automação,Nordeste,52,1508.58,28/07/2023,4,Dinheiro,0.0
+USER0295,5,Switch,Redes,Centro-Oeste,59,4845.52,02/09/2023,8,Boleto,0.0
+USER0296,5,Sensor,Automação,Centro-Oeste,60,1099.01,06/07/2023,2,Dinheiro,0.0
+USER0297,4,Monitor,Informática,Sul,21,3242.95,05/09/2023,5,Boleto,0.0
+USER0298,5,Atuador,Automação,Sudeste,27,752.57,27/08/2023,7,Cartão de Crédito,0.0
+USER0299,5,Desktop,Informática,Centro-Oeste,65,3500.16,31/05/2023,9,Dinheiro,0.0
+USER0300,4,Controle de Acesso,Segurança,Centro-Oeste,62,4484.3,27/02/2023,4,Dinheiro,876.43
+USER0301,4,Placa Controladora,Robótica,Centro-Oeste,23,1918.77,18/10/2023,6,Transferência Bancária,0.0
+USER0302,1,Fechadura Digital,Segurança,Sudeste,67,2147.68,21/11/2023,1,Boleto,91.97
+USER0303,4,Impressora,Informática,Norte,27,3223.56,01/07/2023,8,Dinheiro,30.55
+USER0304,4,Televisão,Eletrônicos,Sudeste,54,2296.08,27/07/2023,8,Boleto,327.79
+USER0305,3,Televisão,Eletrônicos,Sul,50,646.03,24/04/2023,8,Pix,96.31
+USER0306,3,Atuador,Automação,Norte,23,3871.67,29/01/2023,7,Transferência Bancária,0.0
+USER0307,2,Switch,Redes,Centro-Oeste,66,969.25,18/02/2023,6,Dinheiro,23.29
+USER0308,3,Motor de Passo,Robótica,Centro-Oeste,59,465.37,31/01/2023,9,Pix,108.59
+USER0309,3,Impressora,Informática,Sudeste,63,2012.1,29/11/2023,3,Pix,0.0
+USER0310,5,Controle de Acesso,Segurança,Norte,38,3484.71,04/06/2023,6,Dinheiro,458.87
+USER0311,1,Modem,Redes,Nordeste,54,999.92,27/02/2023,3,Transferência Bancária,175.14
+USER0312,1,Controle de Acesso,Segurança,Sudeste,28,3412.46,25/07/2023,3,Boleto,0.0
+USER0313,4,Drone,Eletrônicos,Sudeste,55,4232.98,22/08/2023,1,Pix,0.0
+USER0314,4,Teclado,Informática,Sudeste,55,417.3,29/10/2023,3,Boleto,0.0
+USER0315,4,Smartphone,Eletrônicos,Nordeste,42,428.79,18/01/2023,5,Pix,0.0
+USER0316,5,Access Point,Redes,Sul,22,2830.03,18/03/2023,3,Boleto,673.74
+USER0317,4,Sensor de Movimento,Robótica,Sudeste,34,2964.26,01/07/2023,1,Dinheiro,542.85
+USER0318,3,Detector de Fumaça,Segurança,Sul,29,2054.87,16/02/2023,9,Boleto,0.0
+USER0319,3,Monitor,Informática,Norte,50,1353.96,28/10/2023,2,Dinheiro,246.36
+USER0320,4,Teclado,Informática,Nordeste,23,1699.51,02/08/2023,7,Transferência Bancária,284.46
+USER0321,3,Impressora,Informática,Centro-Oeste,43,4292.23,25/01/2023,6,Transferência Bancária,0.0
+USER0322,4,Monitor,Informática,Norte,66,4311.8,26/05/2023,2,Dinheiro,0.0
+USER0323,1,Alarme,Segurança,Sudeste,28,1543.44,23/11/2023,6,Boleto,0.0
+USER0324,4,CLP,Automação,Sul,28,3355.94,08/01/2023,9,Cartão de Crédito,0.0
+USER0325,3,Alarme,Segurança,Sul,52,3859.06,23/12/2023,6,Dinheiro,601.33
+USER0326,3,Access Point,Redes,Nordeste,38,3571.45,10/07/2023,3,Pix,0.0
+USER0327,2,Desktop,Informática,Sul,19,4403.89,06/10/2023,9,Boleto,0.0
+USER0328,4,Access Point,Redes,Norte,62,1270.49,19/06/2023,7,Boleto,0.0
+USER0329,5,Atuador,Automação,Nordeste,28,4502.44,06/04/2023,6,Pix,671.42
+USER0330,4,Controle de Acesso,Segurança,Sudeste,51,437.99,23/10/2023,3,Pix,0.0
+USER0331,5,Placa Controladora,Robótica,Sudeste,43,4720.68,05/10/2023,4,Boleto,0.0
+USER0332,5,Kit de Montagem,Robótica,Sul,34,3497.6,04/02/2023,7,Cartão de Crédito,105.15
+USER0333,2,Braço Robótico,Robótica,Sul,39,3420.88,27/04/2023,9,Boleto,329.57
+USER0334,2,Drone,Eletrônicos,Nordeste,69,2604.76,09/06/2023,7,Boleto,0.0
+USER0335,2,Repetidor,Redes,Nordeste,25,830.71,08/09/2023,7,Boleto,7.62
+USER0336,3,Smartphone,Eletrônicos,Sudeste,18,4615.48,12/12/2023,6,Transferência Bancária,518.35
+USER0337,2,Notebook,Informática,Nordeste,42,4049.22,06/09/2023,7,Dinheiro,1012.99
+USER0338,1,Atuador,Automação,Sudeste,18,1507.59,27/08/2023,7,Dinheiro,256.47
+USER0339,2,Desktop,Informática,Sudeste,60,4110.36,22/10/2023,9,Transferência Bancária,0.0
+USER0340,4,Televisão,Eletrônicos,Sudeste,48,4150.96,10/09/2023,4,Dinheiro,562.62
+USER0341,1,Impressora,Informática,Sul,48,1130.06,23/12/2023,8,Boleto,219.55
+USER0342,4,Switch,Redes,Sudeste,59,3762.91,05/10/2023,2,Cartão de Crédito,0.0
+USER0343,2,Roteador,Redes,Norte,32,352.28,19/10/2023,5,Cartão de Crédito,0.0
+USER0344,4,Monitor,Informática,Nordeste,40,2004.89,13/05/2023,2,Pix,0.0
+USER0345,4,Servo Motor,Automação,Norte,54,3723.39,17/12/2023,2,Pix,0.0
+USER0346,2,Controlador,Automação,Nordeste,37,2149.22,15/07/2023,2,Boleto,478.98
+USER0347,5,Controlador,Automação,Sul,47,4179.77,29/05/2023,7,Transferência Bancária,408.3
+USER0348,3,Tablet,Eletrônicos,Sudeste,48,1480.13,28/03/2023,3,Dinheiro,0.0
+USER0349,5,Sensor,Automação,Centro-Oeste,62,4933.21,03/01/2023,7,Pix,1099.32
+USER0350,2,CLP,Automação,Sul,36,1297.92,07/03/2023,9,Boleto,172.79
+USER0351,4,CLP,Automação,Sudeste,62,3345.92,17/08/2023,8,Transferência Bancária,0.0
+USER0352,5,Tablet,Eletrônicos,Nordeste,53,1992.28,11/08/2023,9,Transferência Bancária,0.0
+USER0353,4,Repetidor,Redes,Sudeste,43,909.04,06/06/2023,1,Boleto,0.0
+USER0354,1,Sensor de Movimento,Robótica,Sul,65,2124.12,24/06/2023,3,Cartão de Crédito,0.0
+USER0355,3,Sensor de Movimento,Robótica,Nordeste,18,4502.29,02/06/2023,9,Dinheiro,924.5
+USER0356,4,Sensor de Movimento,Robótica,Sul,45,3346.26,01/12/2023,8,Boleto,582.02
+USER0357,3,Smartphone,Eletrônicos,Norte,38,3757.19,21/06/2023,4,Dinheiro,0.0
+USER0358,3,Switch,Redes,Nordeste,59,734.74,10/11/2023,5,Dinheiro,0.0
+USER0359,1,Controlador,Automação,Sul,58,2555.41,17/10/2023,4,Dinheiro,181.77
+USER0360,4,Modem,Redes,Nordeste,46,2379.74,04/08/2023,2,Cartão de Crédito,110.69
+USER0361,5,Impressora,Informática,Centro-Oeste,32,91.82,12/05/2023,1,Cartão de Crédito,0.0
+USER0362,1,Câmera,Segurança,Sudeste,41,1391.36,03/07/2023,2,Dinheiro,0.0
+USER0363,1,Detector de Fumaça,Segurança,Sul,47,4133.71,10/07/2023,7,Dinheiro,0.0
+USER0364,2,Alarme,Segurança,Sudeste,56,1451.15,27/01/2023,9,Dinheiro,0.0
+USER0365,2,Roteador,Redes,Nordeste,48,1022.18,03/11/2023,5,Cartão de Crédito,0.0
+USER0366,5,Smartphone,Eletrônicos,Sudeste,26,4042.13,21/08/2023,8,Boleto,0.0
+USER0367,4,CLP,Automação,Sul,68,2231.48,25/02/2023,5,Transferência Bancária,0.0
+USER0368,2,Servo Motor,Automação,Nordeste,59,1523.36,23/04/2023,5,Cartão de Crédito,143.04
+USER0369,1,Fechadura Digital,Segurança,Sul,25,4825.72,14/02/2023,4,Dinheiro,296.57
+USER0370,4,Roteador,Redes,Sul,54,2478.78,22/10/2023,7,Boleto,274.53
+USER0371,1,Desktop,Informática,Sul,37,1991.03,10/05/2023,6,Transferência Bancária,268.66
+USER0372,2,Alarme,Segurança,Sudeste,69,4065.37,17/09/2023,4,Boleto,817.09
+USER0373,3,Drone,Eletrônicos,Sudeste,35,1292.71,28/05/2023,5,Transferência Bancária,0.0
+USER0374,1,Televisão,Eletrônicos,Nordeste,59,260.33,04/03/2023,8,Transferência Bancária,69.67
+USER0375,1,Desktop,Informática,Centro-Oeste,46,2373.68,29/07/2023,3,Transferência Bancária,19.2
+USER0376,3,Desktop,Informática,Sudeste,46,2800.51,03/03/2023,4,Pix,833.38
+USER0377,4,Controle de Acesso,Segurança,Nordeste,58,2630.26,05/07/2023,4,Boleto,733.24
+USER0378,5,Atuador,Automação,Sudeste,51,2416.16,28/05/2023,6,Dinheiro,0.0
+USER0379,5,Monitor,Informática,Norte,48,198.07,26/02/2023,5,Dinheiro,0.0
+USER0380,2,Servo Motor,Automação,Centro-Oeste,29,698.04,27/06/2023,8,Cartão de Crédito,114.32
+USER0381,5,Fechadura Digital,Segurança,Centro-Oeste,59,903.24,14/08/2023,5,Boleto,0.0
+USER0382,2,Notebook,Informática,Sul,56,2080.54,24/12/2023,2,Cartão de Crédito,0.0
+USER0383,2,Desktop,Informática,Nordeste,43,4964.87,09/03/2023,2,Dinheiro,991.04
+USER0384,1,Fechadura Digital,Segurança,Norte,67,1985.95,07/09/2023,2,Transferência Bancária,386.68
+USER0385,2,Desktop,Informática,Sul,26,4045.28,02/11/2023,3,Cartão de Crédito,475.36
+USER0386,5,Detector de Fumaça,Segurança,Centro-Oeste,54,4376.49,23/11/2023,8,Dinheiro,0.0
+USER0387,2,Smartphone,Eletrônicos,Sudeste,30,2594.25,13/03/2023,9,Pix,335.96
+USER0388,3,Switch,Redes,Sudeste,56,1409.02,04/06/2023,5,Dinheiro,0.0
+USER0389,1,Sensor de Movimento,Robótica,Sudeste,59,2269.23,08/11/2023,4,Dinheiro,102.53
+USER0390,1,Sensor,Automação,Norte,43,3578.53,05/11/2023,6,Dinheiro,0.0
+USER0391,5,Desktop,Informática,Norte,54,2503.62,04/07/2023,2,Cartão de Crédito,536.46
+USER0392,2,Notebook,Informática,Centro-Oeste,57,1062.5,07/01/2023,7,Cartão de Crédito,0.0
+USER0393,1,Smartwatch,Eletrônicos,Sul,69,4212.46,30/09/2023,3,Pix,223.97
+USER0394,5,Fechadura Digital,Segurança,Centro-Oeste,56,3599.89,20/04/2023,6,Transferência Bancária,0.0
+USER0395,4,Desktop,Informática,Nordeste,54,1399.37,25/02/2023,3,Cartão de Crédito,14.54
+USER0396,4,Controle de Acesso,Segurança,Norte,50,2229.78,17/12/2023,8,Transferência Bancária,194.8
+USER0397,5,Repetidor,Redes,Nordeste,47,1201.99,19/06/2023,8,Pix,0.0
+USER0398,2,Servo Motor,Automação,Nordeste,36,3866.8,27/10/2023,5,Boleto,269.96
+USER0399,5,Smartphone,Eletrônicos,Centro-Oeste,37,2343.72,04/10/2023,2,Cartão de Crédito,0.0
+USER0400,4,Sensor de Movimento,Robótica,Sul,43,3694.31,07/07/2023,8,Dinheiro,142.59
+USER0401,1,Controle de Acesso,Segurança,Centro-Oeste,44,3331.39,24/02/2023,5,Boleto,997.83
+USER0402,3,Monitor,Informática,Norte,30,2798.71,01/04/2023,9,Cartão de Crédito,0.0
+USER0403,4,Detector de Fumaça,Segurança,Centro-Oeste,52,4836.67,03/06/2023,1,Dinheiro,0.0
+USER0404,5,Controle de Acesso,Segurança,Sudeste,42,2118.03,24/12/2023,9,Cartão de Crédito,0.0
+USER0405,5,Teclado,Informática,Sudeste,59,938.57,04/04/2023,2,Boleto,63.27
+USER0406,1,Placa Controladora,Robótica,Sudeste,64,1902.96,05/01/2023,4,Dinheiro,0.0
+USER0407,3,Controle de Acesso,Segurança,Nordeste,69,3103.97,02/09/2023,5,Cartão de Crédito,376.0
+USER0408,5,Repetidor,Redes,Sudeste,27,2276.86,11/05/2023,8,Dinheiro,268.73
+USER0409,5,Access Point,Redes,Sul,40,121.13,11/02/2023,6,Pix,11.44
+USER0410,5,Notebook,Informática,Sudeste,20,928.65,12/09/2023,2,Boleto,0.0
+USER0411,1,Switch,Redes,Centro-Oeste,58,2259.9,21/01/2023,9,Boleto,89.64
+USER0412,4,Kit de Montagem,Robótica,Centro-Oeste,69,4367.26,06/12/2023,9,Dinheiro,823.05
+USER0413,4,Monitor,Informática,Sul,31,3962.83,01/06/2023,9,Dinheiro,685.15
+USER0414,1,Roteador,Redes,Norte,49,2772.45,04/11/2023,8,Dinheiro,0.0
+USER0415,2,Teclado,Informática,Sudeste,61,1916.96,01/06/2023,7,Cartão de Crédito,515.0
+USER0416,4,Drone,Eletrônicos,Norte,38,369.28,16/03/2023,6,Pix,99.52
+USER0417,1,Repetidor,Redes,Centro-Oeste,44,3536.6,28/08/2023,1,Cartão de Crédito,157.08
+USER0418,4,Alarme,Segurança,Nordeste,42,3178.18,12/09/2023,7,Transferência Bancária,726.3
+USER0419,4,Smartphone,Eletrônicos,Sul,30,81.59,01/02/2023,3,Boleto,0.0
+USER0420,4,Modem,Redes,Nordeste,30,145.15,19/05/2023,7,Pix,35.81
+USER0421,1,Notebook,Informática,Sudeste,36,3799.34,27/11/2023,7,Pix,0.0
+USER0422,4,Roteador,Redes,Nordeste,57,135.29,26/04/2023,9,Cartão de Crédito,32.9
+USER0423,3,Televisão,Eletrônicos,Centro-Oeste,27,681.32,09/12/2023,9,Boleto,32.25
+USER0424,2,Atuador,Automação,Nordeste,62,1292.86,09/10/2023,4,Boleto,44.22
+USER0425,3,Servo Motor,Automação,Norte,33,1992.33,26/05/2023,6,Boleto,0.0
+USER0426,5,Teclado,Informática,Sudeste,63,3952.97,02/11/2023,4,Dinheiro,0.0
+USER0427,2,Placa Controladora,Robótica,Nordeste,54,4434.89,15/01/2023,8,Transferência Bancária,0.0
+USER0428,4,Smartphone,Eletrônicos,Centro-Oeste,21,960.34,09/11/2023,5,Dinheiro,154.15
+USER0429,3,Teclado,Informática,Sudeste,62,1017.56,21/08/2023,1,Dinheiro,152.41
+USER0430,4,Access Point,Redes,Nordeste,41,522.73,15/05/2023,7,Dinheiro,96.03
+USER0431,4,Monitor,Informática,Norte,61,1346.57,02/01/2023,3,Dinheiro,76.18
+USER0432,2,Kit de Montagem,Robótica,Nordeste,61,1711.79,15/04/2023,7,Cartão de Crédito,0.0
+USER0433,3,Controle de Acesso,Segurança,Sul,49,537.26,06/08/2023,9,Transferência Bancária,0.0
+USER0434,3,Notebook,Informática,Centro-Oeste,29,1550.26,23/11/2023,7,Transferência Bancária,0.0
+USER0435,2,Modem,Redes,Norte,29,3128.64,21/09/2023,5,Pix,0.0
+USER0436,1,Drone,Eletrônicos,Nordeste,19,4296.49,30/01/2023,8,Pix,0.0
+USER0437,3,Access Point,Redes,Sul,39,4356.39,29/05/2023,5,Pix,692.23
+USER0438,5,Smartwatch,Eletrônicos,Sudeste,66,826.55,25/04/2023,8,Cartão de Crédito,0.0
+USER0439,5,Switch,Redes,Sul,29,629.49,06/03/2023,9,Dinheiro,0.0
+USER0440,4,Motor de Passo,Robótica,Centro-Oeste,48,4584.11,03/10/2023,6,Cartão de Crédito,599.23
+USER0441,4,Braço Robótico,Robótica,Nordeste,51,3464.1,22/05/2023,7,Transferência Bancária,0.0
+USER0442,2,Televisão,Eletrônicos,Nordeste,28,1902.77,01/11/2023,1,Pix,215.06
+USER0443,5,Repetidor,Redes,Sudeste,54,2192.14,20/11/2023,6,Pix,0.0
+USER0444,1,Access Point,Redes,Sudeste,66,931.42,02/10/2023,8,Transferência Bancária,94.81
+USER0445,5,Notebook,Informática,Norte,46,1907.82,13/12/2023,9,Boleto,0.0
+USER0446,3,Monitor,Informática,Sul,19,2652.16,20/12/2023,6,Cartão de Crédito,209.51
+USER0447,4,Detector de Fumaça,Segurança,Sudeste,59,1167.79,11/05/2023,8,Boleto,7.47
+USER0448,2,Kit de Montagem,Robótica,Centro-Oeste,59,2685.41,05/10/2023,6,Dinheiro,0.0
+USER0449,1,Alarme,Segurança,Norte,55,1948.98,09/09/2023,9,Dinheiro,0.0
+USER0450,5,Servo Motor,Automação,Centro-Oeste,30,4637.32,23/05/2023,3,Boleto,472.52
+USER0451,5,Atuador,Automação,Norte,32,4289.05,25/05/2023,8,Transferência Bancária,0.0
+USER0452,4,CLP,Automação,Centro-Oeste,37,3710.11,04/03/2023,9,Cartão de Crédito,888.11
+USER0453,3,Detector de Fumaça,Segurança,Nordeste,53,868.09,23/07/2023,4,Dinheiro,0.0
+USER0454,3,Placa Controladora,Robótica,Nordeste,37,3723.98,15/04/2023,4,Dinheiro,0.0
+USER0455,5,Controlador,Automação,Nordeste,56,4279.94,19/04/2023,6,Cartão de Crédito,0.0
+USER0456,1,Notebook,Informática,Nordeste,69,1238.1,03/10/2023,5,Boleto,164.1
+USER0457,3,Roteador,Redes,Nordeste,26,1847.09,16/09/2023,3,Pix,0.0
+USER0458,3,Access Point,Redes,Norte,45,936.29,12/10/2023,9,Dinheiro,0.0
+USER0459,1,Impressora,Informática,Norte,35,4411.11,08/12/2023,7,Dinheiro,0.0
+USER0460,2,Impressora,Informática,Sul,62,4233.6,23/12/2023,2,Dinheiro,0.0
+USER0461,4,Kit de Montagem,Robótica,Centro-Oeste,40,4872.68,02/05/2023,4,Cartão de Crédito,150.15
+USER0462,4,Alarme,Segurança,Sul,61,417.76,26/07/2023,2,Boleto,123.43
+USER0463,1,Tablet,Eletrônicos,Sudeste,69,983.21,29/08/2023,6,Dinheiro,0.0
+USER0464,5,Controle de Acesso,Segurança,Centro-Oeste,41,339.82,27/06/2023,3,Dinheiro,0.0
+USER0465,1,Modem,Redes,Nordeste,18,1803.0,05/10/2023,1,Dinheiro,0.0
+USER0466,4,Motor de Passo,Robótica,Nordeste,50,535.89,17/02/2023,8,Cartão de Crédito,92.67
+USER0467,1,Motor de Passo,Robótica,Sul,37,1882.23,01/08/2023,7,Dinheiro,94.81
+USER0468,3,Braço Robótico,Robótica,Centro-Oeste,39,202.27,31/07/2023,1,Pix,0.0
+USER0469,5,Tablet,Eletrônicos,Norte,68,2524.53,28/02/2023,5,Boleto,0.0
+USER0470,3,Desktop,Informática,Nordeste,31,4831.71,19/01/2023,6,Boleto,1432.78
+USER0471,2,Detector de Fumaça,Segurança,Nordeste,63,1847.15,21/04/2023,1,Cartão de Crédito,0.0
+USER0472,3,Notebook,Informática,Norte,24,2054.0,28/06/2023,2,Pix,0.0
+USER0473,2,Desktop,Informática,Sul,58,773.49,14/02/2023,1,Dinheiro,0.0
+USER0474,2,Câmera,Segurança,Sudeste,25,3870.29,16/03/2023,3,Boleto,0.0
+USER0475,3,Tablet,Eletrônicos,Centro-Oeste,52,1789.32,15/07/2023,1,Pix,182.01
+USER0476,2,Desktop,Informática,Norte,22,2190.88,15/10/2023,6,Dinheiro,0.0
+USER0477,4,Desktop,Informática,Norte,54,2686.94,21/05/2023,4,Cartão de Crédito,0.0
+USER0478,3,CLP,Automação,Nordeste,61,3206.8,27/12/2023,7,Dinheiro,0.0
+USER0479,5,Roteador,Redes,Nordeste,63,4946.21,14/02/2023,7,Cartão de Crédito,123.9
+USER0480,2,Switch,Redes,Sul,39,3458.41,02/04/2023,9,Boleto,0.0
+USER0481,5,Modem,Redes,Nordeste,41,1069.0,07/05/2023,6,Boleto,0.0
+USER0482,1,Atuador,Automação,Sudeste,56,889.73,28/11/2023,6,Pix,0.0
+USER0483,2,Tablet,Eletrônicos,Norte,64,2178.25,05/01/2023,8,Transferência Bancária,0.0
+USER0484,5,Câmera,Segurança,Norte,28,1439.61,05/04/2023,3,Transferência Bancária,0.0
+USER0485,4,Braço Robótico,Robótica,Nordeste,21,337.88,25/05/2023,1,Pix,53.87
+USER0486,5,Tablet,Eletrônicos,Sudeste,69,3464.39,03/09/2023,5,Pix,0.0
+USER0487,3,Detector de Fumaça,Segurança,Centro-Oeste,44,2916.74,16/06/2023,4,Pix,0.0
+USER0488,3,Switch,Redes,Sudeste,38,4731.86,30/11/2023,8,Boleto,0.0
+USER0489,4,Controlador,Automação,Centro-Oeste,28,2567.5,31/12/2023,8,Cartão de Crédito,0.0
+USER0490,4,Motor de Passo,Robótica,Sul,49,122.36,19/11/2023,1,Dinheiro,0.0
+USER0491,3,Modem,Redes,Norte,44,1151.76,21/10/2023,7,Pix,0.0
+USER0492,2,Kit de Montagem,Robótica,Centro-Oeste,27,4328.87,09/06/2023,4,Transferência Bancária,1042.02
+USER0493,4,Câmera,Segurança,Sudeste,21,2035.61,19/08/2023,9,Cartão de Crédito,0.0
+USER0494,2,Detector de Fumaça,Segurança,Sul,59,3168.56,06/03/2023,5,Boleto,0.0
+USER0495,2,Notebook,Informática,Norte,27,3777.52,04/03/2023,4,Boleto,1016.38
+USER0496,3,Câmera,Segurança,Sul,19,599.77,30/12/2023,6,Transferência Bancária,63.95
+USER0497,1,Sensor,Automação,Sudeste,68,4212.41,29/12/2023,6,Dinheiro,1114.32
+USER0498,2,Notebook,Informática,Sudeste,68,2171.25,24/11/2023,9,Transferência Bancária,0.0
+USER0499,4,Monitor,Informática,Sul,62,2099.55,16/07/2023,7,Pix,0.0
+USER0500,5,Fechadura Digital,Segurança,Norte,22,3543.67,28/01/2023,8,Dinheiro,933.48
+USER0501,2,Tablet,Eletrônicos,Sudeste,43,476.05,29/11/2023,8,Cartão de Crédito,51.04
+USER0502,2,Tablet,Eletrônicos,Sul,45,1743.94,04/09/2023,7,Boleto,0.0
+USER0503,5,Desktop,Informática,Sul,51,2146.85,16/03/2023,1,Pix,0.0
+USER0504,3,CLP,Automação,Sudeste,39,258.97,02/02/2023,1,Pix,0.0
+USER0505,1,Sensor,Automação,Centro-Oeste,28,904.84,04/12/2023,1,Transferência Bancária,92.44
+USER0506,3,Desktop,Informática,Nordeste,24,1901.47,30/03/2023,9,Pix,143.12
+USER0507,4,Desktop,Informática,Sudeste,63,2067.41,05/01/2023,2,Boleto,0.0
+USER0508,1,Fechadura Digital,Segurança,Nordeste,26,1571.72,01/09/2023,8,Transferência Bancária,5.21
+USER0509,1,Detector de Fumaça,Segurança,Sul,64,4600.11,30/01/2023,8,Boleto,632.8
+USER0510,2,Sensor de Movimento,Robótica,Norte,59,400.51,30/07/2023,4,Transferência Bancária,0.0
+USER0511,4,Sensor,Automação,Nordeste,65,1443.63,24/03/2023,4,Pix,46.03
+USER0512,2,Motor de Passo,Robótica,Norte,69,3972.93,24/11/2023,2,Pix,0.0
+USER0513,3,Atuador,Automação,Nordeste,53,2545.71,07/06/2023,4,Boleto,0.0
+USER0514,2,Detector de Fumaça,Segurança,Sudeste,48,1346.79,22/07/2023,3,Cartão de Crédito,0.0
+USER0515,3,Drone,Eletrônicos,Sul,36,4807.36,15/09/2023,3,Pix,0.0
+USER0516,1,Smartphone,Eletrônicos,Norte,34,3006.57,07/02/2023,9,Dinheiro,76.42
+USER0517,5,Smartwatch,Eletrônicos,Centro-Oeste,33,254.49,24/06/2023,9,Transferência Bancária,0.0
+USER0518,2,Braço Robótico,Robótica,Nordeste,31,3081.15,18/10/2023,1,Cartão de Crédito,886.95
+USER0519,5,Sensor,Automação,Sudeste,25,4511.59,05/09/2023,3,Boleto,524.89
+USER0520,1,Tablet,Eletrônicos,Nordeste,50,3321.9,04/01/2023,1,Pix,106.93
+USER0521,5,Controle de Acesso,Segurança,Centro-Oeste,21,3539.16,03/05/2023,2,Transferência Bancária,222.49
+USER0522,1,CLP,Automação,Sudeste,34,1109.9,11/09/2023,4,Pix,123.01
+USER0523,2,Televisão,Eletrônicos,Nordeste,57,681.93,01/04/2023,1,Pix,0.0
+USER0524,3,Drone,Eletrônicos,Nordeste,35,1953.8,04/02/2023,7,Cartão de Crédito,0.0
+USER0525,1,Braço Robótico,Robótica,Nordeste,60,1775.89,09/10/2023,9,Transferência Bancária,0.0
+USER0526,3,Motor de Passo,Robótica,Sul,18,1444.69,09/02/2023,5,Pix,293.58
+USER0527,5,Televisão,Eletrônicos,Sul,23,3670.14,06/05/2023,8,Cartão de Crédito,259.8
+USER0528,1,Sensor,Automação,Centro-Oeste,53,937.74,20/05/2023,4,Boleto,0.0
+USER0529,3,Braço Robótico,Robótica,Nordeste,55,4079.73,13/03/2023,1,Dinheiro,115.89
+USER0530,5,Servo Motor,Automação,Centro-Oeste,49,4589.51,28/11/2023,1,Transferência Bancária,0.0
+USER0531,4,Teclado,Informática,Nordeste,46,151.89,27/12/2023,1,Boleto,13.95
+USER0532,3,CLP,Automação,Nordeste,30,3863.88,13/09/2023,3,Pix,0.0
+USER0533,5,Televisão,Eletrônicos,Centro-Oeste,53,4357.42,15/12/2023,5,Cartão de Crédito,0.0
+USER0534,4,CLP,Automação,Nordeste,63,1401.51,20/09/2023,8,Cartão de Crédito,0.0
+USER0535,4,Motor de Passo,Robótica,Sudeste,33,2095.74,19/02/2023,7,Cartão de Crédito,0.0
+USER0536,3,Repetidor,Redes,Nordeste,41,720.7,08/12/2023,8,Boleto,174.13
+USER0537,1,Controlador,Automação,Nordeste,60,1033.2,01/10/2023,1,Cartão de Crédito,0.0
+USER0538,2,Repetidor,Redes,Norte,64,1696.27,15/07/2023,5,Boleto,194.45
+USER0539,3,Tablet,Eletrônicos,Sul,63,4729.66,18/03/2023,8,Cartão de Crédito,0.0
+USER0540,5,Braço Robótico,Robótica,Centro-Oeste,31,1048.36,26/01/2023,7,Pix,0.0
+USER0541,4,Tablet,Eletrônicos,Norte,45,1970.41,29/09/2023,2,Cartão de Crédito,247.22
+USER0542,4,Fechadura Digital,Segurança,Centro-Oeste,21,2441.16,04/08/2023,6,Dinheiro,0.0
+USER0543,4,Detector de Fumaça,Segurança,Nordeste,34,664.15,03/11/2023,6,Pix,146.09
+USER0544,1,CLP,Automação,Norte,54,4291.67,11/06/2023,1,Dinheiro,680.77
+USER0545,1,Alarme,Segurança,Sul,36,4823.51,25/07/2023,8,Dinheiro,0.0
+USER0546,3,Access Point,Redes,Centro-Oeste,21,1464.36,12/02/2023,4,Transferência Bancária,67.37
+USER0547,5,Servo Motor,Automação,Sul,38,2265.84,28/07/2023,3,Transferência Bancária,108.67
+USER0548,1,CLP,Automação,Sul,35,4170.11,25/09/2023,7,Pix,970.41
+USER0549,3,Televisão,Eletrônicos,Sudeste,43,734.54,05/10/2023,1,Dinheiro,0.0
+USER0550,4,Notebook,Informática,Sul,67,2575.2,22/11/2023,3,Transferência Bancária,331.44
+USER0551,4,Sensor de Movimento,Robótica,Norte,19,4593.4,04/01/2023,4,Pix,0.0
+USER0552,2,Sensor de Movimento,Robótica,Nordeste,20,4613.41,02/12/2023,4,Cartão de Crédito,0.0
+USER0553,3,Teclado,Informática,Nordeste,38,1974.11,12/06/2023,7,Cartão de Crédito,170.03
+USER0554,2,Controle de Acesso,Segurança,Nordeste,46,3722.24,14/10/2023,2,Transferência Bancária,0.0
+USER0555,1,Alarme,Segurança,Norte,36,4866.16,10/07/2023,4,Pix,0.0
+USER0556,1,Access Point,Redes,Norte,57,720.58,18/04/2023,3,Transferência Bancária,144.11
+USER0557,3,Desktop,Informática,Sul,66,2780.21,23/05/2023,9,Boleto,646.16
+USER0558,2,Impressora,Informática,Sul,24,2880.03,14/09/2023,9,Transferência Bancária,326.09
+USER0559,4,Detector de Fumaça,Segurança,Centro-Oeste,26,2795.66,10/08/2023,4,Cartão de Crédito,0.0
+USER0560,3,Atuador,Automação,Norte,21,4131.43,13/12/2023,9,Cartão de Crédito,440.57
+USER0561,4,Servo Motor,Automação,Nordeste,57,4498.21,29/01/2023,6,Boleto,0.0
+USER0562,4,Access Point,Redes,Norte,43,79.7,21/01/2023,8,Cartão de Crédito,11.82
+USER0563,3,Controle de Acesso,Segurança,Sudeste,45,4106.52,16/10/2023,9,Transferência Bancária,0.0
+USER0564,5,Roteador,Redes,Sudeste,53,391.11,15/10/2023,8,Boleto,42.29
+USER0565,3,Alarme,Segurança,Centro-Oeste,65,4625.79,07/04/2023,5,Boleto,92.31
+USER0566,1,Notebook,Informática,Sudeste,44,157.07,03/05/2023,2,Transferência Bancária,0.0
+USER0567,1,Detector de Fumaça,Segurança,Norte,48,225.63,06/02/2023,4,Pix,33.19
+USER0568,5,Desktop,Informática,Sudeste,39,3550.42,06/09/2023,1,Cartão de Crédito,715.08
+USER0569,1,Controlador,Automação,Norte,40,3630.31,17/06/2023,8,Transferência Bancária,0.0
+USER0570,2,Impressora,Informática,Norte,59,713.35,21/02/2023,8,Dinheiro,45.11
+USER0571,2,Monitor,Informática,Sul,64,986.17,07/06/2023,3,Dinheiro,0.0
+USER0572,5,Braço Robótico,Robótica,Centro-Oeste,64,2879.22,24/06/2023,8,Cartão de Crédito,810.17
+USER0573,3,Smartphone,Eletrônicos,Nordeste,48,2450.56,02/04/2023,8,Boleto,117.36
+USER0574,2,Kit de Montagem,Robótica,Nordeste,51,2299.45,15/07/2023,3,Dinheiro,5.8
+USER0575,3,Smartphone,Eletrônicos,Nordeste,61,2648.39,26/05/2023,2,Pix,12.32
+USER0576,4,Teclado,Informática,Sul,67,344.9,27/04/2023,8,Transferência Bancária,0.0
+USER0577,2,Impressora,Informática,Centro-Oeste,36,3756.45,10/02/2023,3,Pix,1107.01
+USER0578,4,Fechadura Digital,Segurança,Nordeste,58,916.49,14/02/2023,3,Dinheiro,153.9
+USER0579,3,Detector de Fumaça,Segurança,Sudeste,67,4869.46,24/12/2023,7,Transferência Bancária,1228.33
+USER0580,2,Sensor de Movimento,Robótica,Centro-Oeste,38,4442.21,11/09/2023,1,Dinheiro,667.88
+USER0581,4,Tablet,Eletrônicos,Centro-Oeste,43,4916.51,18/02/2023,1,Pix,0.0
+USER0582,4,Servo Motor,Automação,Sul,28,4422.97,08/02/2023,7,Pix,407.03
+USER0583,4,Placa Controladora,Robótica,Sudeste,67,4302.35,26/07/2023,4,Boleto,109.41
+USER0584,4,Modem,Redes,Centro-Oeste,20,2754.15,13/12/2023,4,Transferência Bancária,444.13
+USER0585,3,Fechadura Digital,Segurança,Centro-Oeste,64,4398.95,10/02/2023,6,Boleto,0.0
+USER0586,1,Detector de Fumaça,Segurança,Norte,66,3280.83,29/06/2023,2,Cartão de Crédito,479.91
+USER0587,1,Access Point,Redes,Sudeste,52,4785.54,27/01/2023,3,Transferência Bancária,0.0
+USER0588,4,Repetidor,Redes,Centro-Oeste,52,4022.2,20/07/2023,4,Boleto,0.0
+USER0589,1,Roteador,Redes,Nordeste,27,4524.16,13/10/2023,1,Cartão de Crédito,867.98
+USER0590,3,Controle de Acesso,Segurança,Sudeste,34,1405.87,22/02/2023,7,Pix,351.46
+USER0591,4,Monitor,Informática,Nordeste,62,2358.36,16/09/2023,6,Pix,0.0
+USER0592,1,Motor de Passo,Robótica,Nordeste,32,1823.84,11/07/2023,7,Pix,439.51
+USER0593,5,Smartwatch,Eletrônicos,Nordeste,19,102.53,18/06/2023,8,Boleto,0.0
+USER0594,5,Drone,Eletrônicos,Norte,66,1026.05,03/03/2023,1,Boleto,157.23
+USER0595,3,Smartphone,Eletrônicos,Centro-Oeste,28,3038.67,16/03/2023,9,Boleto,351.95
+USER0596,4,Controle de Acesso,Segurança,Sul,24,3140.41,02/10/2023,2,Boleto,0.0
+USER0597,3,Tablet,Eletrônicos,Sudeste,33,4248.87,28/08/2023,8,Pix,0.0
+USER0598,5,Motor de Passo,Robótica,Sudeste,22,2719.73,03/10/2023,8,Boleto,605.89
+USER0599,2,Sensor de Movimento,Robótica,Sudeste,33,3173.93,07/10/2023,6,Transferência Bancária,0.0
+USER0600,5,Motor de Passo,Robótica,Sul,59,101.84,29/07/2023,3,Cartão de Crédito,16.03
+USER0601,1,Switch,Redes,Nordeste,61,1761.01,07/02/2023,9,Boleto,266.59
+USER0602,2,Câmera,Segurança,Sudeste,20,3933.06,08/12/2023,2,Pix,274.94
+USER0603,1,Sensor de Movimento,Robótica,Norte,50,817.04,17/07/2023,3,Boleto,0.0
+USER0604,5,Servo Motor,Automação,Sul,66,3754.98,19/10/2023,8,Pix,0.0
+USER0605,3,Televisão,Eletrônicos,Sudeste,60,4096.72,04/03/2023,7,Boleto,708.95
+USER0606,5,Fechadura Digital,Segurança,Sudeste,56,3375.4,10/09/2023,8,Cartão de Crédito,0.0
+USER0607,1,Monitor,Informática,Centro-Oeste,52,3984.84,23/06/2023,5,Dinheiro,0.0
+USER0608,2,Teclado,Informática,Norte,59,1252.51,17/10/2023,7,Transferência Bancária,0.0
+USER0609,4,Smartwatch,Eletrônicos,Sul,29,1425.2,08/11/2023,1,Transferência Bancária,0.0
+USER0610,5,Fechadura Digital,Segurança,Nordeste,39,2836.29,23/11/2023,2,Cartão de Crédito,335.08
+USER0611,4,Roteador,Redes,Sul,19,1720.84,21/07/2023,5,Transferência Bancária,0.0
+USER0612,1,Sensor de Movimento,Robótica,Centro-Oeste,46,2639.79,18/04/2023,8,Boleto,15.52
+USER0613,2,Controlador,Automação,Sudeste,42,1610.65,01/08/2023,6,Boleto,270.25
+USER0614,4,Placa Controladora,Robótica,Centro-Oeste,36,4995.42,07/06/2023,3,Transferência Bancária,891.1
+USER0615,4,Controle de Acesso,Segurança,Sul,44,3796.37,07/07/2023,8,Cartão de Crédito,890.26
+USER0616,1,Smartphone,Eletrônicos,Norte,69,4725.76,21/08/2023,2,Transferência Bancária,683.59
+USER0617,2,Smartphone,Eletrônicos,Centro-Oeste,49,516.07,11/09/2023,3,Transferência Bancária,0.0
+USER0618,1,Tablet,Eletrônicos,Centro-Oeste,42,1571.09,24/08/2023,6,Dinheiro,0.0
+USER0619,1,Motor de Passo,Robótica,Sudeste,54,3539.97,04/03/2023,6,Pix,248.8
+USER0620,5,Impressora,Informática,Sul,21,1277.47,22/04/2023,2,Boleto,288.14
+USER0621,2,Access Point,Redes,Norte,30,657.63,18/08/2023,7,Dinheiro,0.0
+USER0622,3,Roteador,Redes,Centro-Oeste,57,3629.18,29/09/2023,3,Boleto,0.0
+USER0623,5,Smartphone,Eletrônicos,Sudeste,21,1950.72,16/01/2023,9,Dinheiro,422.4
+USER0624,5,Switch,Redes,Sudeste,46,1643.32,30/05/2023,8,Dinheiro,0.0
+USER0625,4,Atuador,Automação,Sul,56,1766.41,13/10/2023,6,Pix,430.93
+USER0626,2,Desktop,Informática,Nordeste,20,2366.81,04/03/2023,2,Pix,652.24
+USER0627,3,Televisão,Eletrônicos,Centro-Oeste,32,269.56,26/02/2023,7,Cartão de Crédito,23.14
+USER0628,2,Controle de Acesso,Segurança,Sudeste,66,529.51,04/11/2023,2,Pix,0.0
+USER0629,1,Controle de Acesso,Segurança,Sudeste,61,1292.84,08/05/2023,8,Dinheiro,342.99
+USER0630,4,Smartwatch,Eletrônicos,Sudeste,52,1191.28,17/08/2023,6,Pix,16.49
+USER0631,3,Switch,Redes,Norte,63,3089.86,05/09/2023,8,Boleto,683.86
+USER0632,2,Kit de Montagem,Robótica,Nordeste,24,1655.54,29/07/2023,2,Pix,0.0
+USER0633,4,Televisão,Eletrônicos,Centro-Oeste,38,1670.5,16/03/2023,7,Boleto,0.0
+USER0634,2,Alarme,Segurança,Centro-Oeste,49,2169.83,05/10/2023,4,Cartão de Crédito,634.39
+USER0635,4,Controle de Acesso,Segurança,Sudeste,56,3465.49,20/01/2023,6,Dinheiro,402.57
+USER0636,5,Smartphone,Eletrônicos,Nordeste,43,1757.01,17/11/2023,2,Dinheiro,0.0
+USER0637,5,Kit de Montagem,Robótica,Nordeste,41,1282.67,19/01/2023,5,Transferência Bancária,312.39
+USER0638,5,Sensor de Movimento,Robótica,Centro-Oeste,58,3676.28,02/08/2023,7,Dinheiro,1062.36
+USER0639,3,Smartwatch,Eletrônicos,Norte,51,2054.24,03/10/2023,7,Transferência Bancária,0.0
+USER0640,5,Servo Motor,Automação,Nordeste,26,3454.17,03/10/2023,1,Transferência Bancária,356.62
+USER0641,5,CLP,Automação,Nordeste,38,2737.57,29/05/2023,3,Cartão de Crédito,7.72
+USER0642,1,Impressora,Informática,Sul,21,2921.17,22/11/2023,5,Dinheiro,0.0
+USER0643,3,Câmera,Segurança,Sul,64,674.51,25/04/2023,8,Dinheiro,55.28
+USER0644,4,Braço Robótico,Robótica,Sudeste,62,2975.05,13/02/2023,2,Cartão de Crédito,0.0
+USER0645,5,Televisão,Eletrônicos,Centro-Oeste,26,1645.95,28/03/2023,6,Transferência Bancária,97.79
+USER0646,1,Fechadura Digital,Segurança,Sudeste,44,4293.18,12/01/2023,7,Cartão de Crédito,598.28
+USER0647,4,Controlador,Automação,Sul,19,2628.41,24/09/2023,3,Pix,0.0
+USER0648,4,Tablet,Eletrônicos,Norte,40,4647.06,09/10/2023,3,Transferência Bancária,395.01
+USER0649,3,Kit de Montagem,Robótica,Nordeste,51,4170.57,07/09/2023,8,Dinheiro,867.41
+USER0650,4,CLP,Automação,Centro-Oeste,47,3568.2,24/02/2023,9,Pix,27.97
+USER0651,2,Desktop,Informática,Centro-Oeste,49,3675.52,26/09/2023,2,Pix,520.79
+USER0652,1,Atuador,Automação,Nordeste,24,4805.33,12/11/2023,7,Pix,0.0
+USER0653,3,Televisão,Eletrônicos,Sul,18,3231.12,23/05/2023,7,Pix,0.0
+USER0654,4,Controlador,Automação,Centro-Oeste,66,2957.47,07/07/2023,9,Cartão de Crédito,0.0
+USER0655,3,Teclado,Informática,Nordeste,53,4342.44,14/08/2023,8,Dinheiro,696.26
+USER0656,4,Modem,Redes,Sul,57,3838.87,19/04/2023,7,Dinheiro,0.0
+USER0657,2,Notebook,Informática,Sul,46,4354.03,12/05/2023,6,Boleto,0.0
+USER0658,4,Switch,Redes,Sudeste,61,546.1,22/03/2023,4,Boleto,0.0
+USER0659,1,Smartwatch,Eletrônicos,Norte,62,4255.55,31/10/2023,8,Cartão de Crédito,269.25
+USER0660,3,Câmera,Segurança,Centro-Oeste,32,696.88,07/11/2023,8,Boleto,0.0
+USER0661,3,Roteador,Redes,Nordeste,24,2265.12,11/04/2023,7,Transferência Bancária,347.76
+USER0662,1,Impressora,Informática,Norte,45,4559.22,09/06/2023,2,Cartão de Crédito,533.66
+USER0663,3,Desktop,Informática,Nordeste,30,2156.93,18/05/2023,1,Boleto,634.71
+USER0664,1,Notebook,Informática,Sudeste,41,497.23,13/06/2023,5,Cartão de Crédito,41.59
+USER0665,4,Repetidor,Redes,Centro-Oeste,18,2962.34,25/05/2023,3,Pix,0.0
+USER0666,4,Fechadura Digital,Segurança,Centro-Oeste,58,3302.54,22/02/2023,1,Boleto,706.17
+USER0667,3,Monitor,Informática,Sudeste,40,1426.28,28/09/2023,5,Cartão de Crédito,0.0
+USER0668,5,Desktop,Informática,Nordeste,61,676.88,03/10/2023,9,Pix,0.0
+USER0669,3,Notebook,Informática,Sudeste,45,3078.26,07/11/2023,6,Cartão de Crédito,470.3
+USER0670,3,Desktop,Informática,Sudeste,27,574.65,18/12/2023,7,Pix,0.0
+USER0671,1,Access Point,Redes,Sul,48,2659.56,13/08/2023,1,Boleto,79.25
+USER0672,3,Câmera,Segurança,Sudeste,38,1816.97,03/11/2023,4,Cartão de Crédito,0.0
+USER0673,5,Notebook,Informática,Nordeste,30,476.34,19/04/2023,5,Dinheiro,129.81
+USER0674,1,Tablet,Eletrônicos,Sudeste,59,1116.39,13/04/2023,4,Dinheiro,6.71
+USER0675,3,Servo Motor,Automação,Sul,60,503.37,30/10/2023,6,Dinheiro,0.0
+USER0676,5,Braço Robótico,Robótica,Sudeste,46,631.5,24/07/2023,4,Transferência Bancária,149.04
+USER0677,5,Kit de Montagem,Robótica,Centro-Oeste,30,3430.79,19/04/2023,9,Transferência Bancária,0.0
+USER0678,1,Fechadura Digital,Segurança,Sudeste,28,1112.35,04/05/2023,1,Dinheiro,0.0
+USER0679,1,Alarme,Segurança,Norte,69,4761.51,09/07/2023,6,Boleto,0.0
+USER0680,3,Kit de Montagem,Robótica,Sul,42,4553.56,23/10/2023,5,Transferência Bancária,0.0
+USER0681,5,Desktop,Informática,Sudeste,67,1707.54,13/08/2023,3,Transferência Bancária,0.0
+USER0682,2,Tablet,Eletrônicos,Sudeste,47,1649.22,02/02/2023,3,Transferência Bancária,0.0
+USER0683,3,Controle de Acesso,Segurança,Centro-Oeste,53,2246.3,05/02/2023,5,Pix,271.9
+USER0684,5,Impressora,Informática,Norte,30,4798.59,15/09/2023,2,Dinheiro,0.0
+USER0685,4,Motor de Passo,Robótica,Centro-Oeste,26,3910.11,30/05/2023,7,Transferência Bancária,0.0
+USER0686,5,Fechadura Digital,Segurança,Centro-Oeste,21,3181.86,20/08/2023,3,Dinheiro,35.49
+USER0687,5,Desktop,Informática,Sudeste,67,502.99,01/01/2023,9,Cartão de Crédito,111.93
+USER0688,3,Repetidor,Redes,Norte,54,1721.65,09/09/2023,2,Pix,174.46
+USER0689,3,Controlador,Automação,Sul,61,4372.63,28/03/2023,7,Pix,604.78
+USER0690,5,Controle de Acesso,Segurança,Norte,68,3999.07,06/09/2023,3,Cartão de Crédito,995.92
+USER0691,5,Drone,Eletrônicos,Sul,60,4066.53,04/01/2023,3,Boleto,0.0
+USER0692,5,Monitor,Informática,Centro-Oeste,62,1005.38,23/08/2023,7,Boleto,0.0
+USER0693,1,Smartphone,Eletrônicos,Sul,46,113.83,18/01/2023,4,Pix,30.68
+USER0694,5,Access Point,Redes,Nordeste,42,375.99,28/07/2023,9,Boleto,57.36
+USER0695,2,Atuador,Automação,Sul,39,139.91,27/08/2023,5,Dinheiro,34.04
+USER0696,5,Tablet,Eletrônicos,Nordeste,39,4011.06,23/08/2023,7,Boleto,155.68
+USER0697,2,Smartphone,Eletrônicos,Sul,44,1636.27,17/08/2023,6,Pix,0.0
+USER0698,2,Monitor,Informática,Sul,53,1162.42,28/07/2023,5,Dinheiro,0.0
+USER0699,5,Braço Robótico,Robótica,Sul,56,3300.21,07/01/2023,5,Boleto,0.0
+USER0700,5,Motor de Passo,Robótica,Nordeste,21,324.76,17/06/2023,6,Pix,0.0
+USER0701,5,Smartwatch,Eletrônicos,Norte,64,1231.08,17/05/2023,6,Cartão de Crédito,34.93
+USER0702,4,Atuador,Automação,Nordeste,57,537.51,25/08/2023,4,Pix,0.0
+USER0703,5,Controle de Acesso,Segurança,Centro-Oeste,25,2646.71,05/06/2023,5,Transferência Bancária,751.21
+USER0704,2,Modem,Redes,Sudeste,66,1841.58,26/05/2023,8,Cartão de Crédito,0.0
+USER0705,5,Placa Controladora,Robótica,Centro-Oeste,19,751.87,28/12/2023,1,Cartão de Crédito,0.0
+USER0706,2,Kit de Montagem,Robótica,Norte,55,2709.06,29/04/2023,2,Transferência Bancária,314.94
+USER0707,4,Braço Robótico,Robótica,Sul,61,228.5,04/04/2023,9,Transferência Bancária,9.13
+USER0708,2,Teclado,Informática,Sul,27,2965.7,26/09/2023,1,Cartão de Crédito,0.0
+USER0709,3,Controle de Acesso,Segurança,Norte,54,3177.27,21/05/2023,1,Pix,0.0
+USER0710,5,Smartphone,Eletrônicos,Norte,55,4375.94,23/09/2023,1,Pix,1086.27
+USER0711,5,Roteador,Redes,Sul,27,2541.2,26/10/2023,4,Dinheiro,94.98
+USER0712,5,CLP,Automação,Centro-Oeste,24,200.47,13/04/2023,3,Transferência Bancária,31.02
+USER0713,4,Smartwatch,Eletrônicos,Norte,24,4990.64,28/03/2023,4,Pix,289.73
+USER0714,4,Kit de Montagem,Robótica,Sul,66,2611.66,13/12/2023,9,Dinheiro,308.93
+USER0715,4,Tablet,Eletrônicos,Sudeste,21,4173.02,02/08/2023,3,Boleto,0.0
+USER0716,3,Fechadura Digital,Segurança,Nordeste,69,713.27,16/03/2023,3,Pix,0.0
+USER0717,3,Notebook,Informática,Norte,22,4741.41,19/03/2023,5,Pix,61.81
+USER0718,5,Monitor,Informática,Sudeste,41,472.62,17/09/2023,5,Dinheiro,0.0
+USER0719,1,Alarme,Segurança,Sudeste,66,111.86,19/04/2023,9,Boleto,16.44
+USER0720,4,Motor de Passo,Robótica,Sul,28,4529.92,24/03/2023,7,Cartão de Crédito,0.0
+USER0721,1,Alarme,Segurança,Centro-Oeste,25,4543.84,27/09/2023,3,Dinheiro,0.0
+USER0722,2,Desktop,Informática,Sul,21,300.49,19/08/2023,7,Dinheiro,10.48
+USER0723,1,Tablet,Eletrônicos,Centro-Oeste,35,3416.08,25/04/2023,1,Transferência Bancária,0.0
+USER0724,1,Alarme,Segurança,Centro-Oeste,40,3301.65,25/06/2023,2,Boleto,123.85
+USER0725,4,Desktop,Informática,Norte,30,3990.39,20/02/2023,5,Transferência Bancária,0.0
+USER0726,1,Switch,Redes,Sudeste,35,2504.15,27/09/2023,7,Dinheiro,670.95
+USER0727,5,Roteador,Redes,Sudeste,48,4876.41,06/11/2023,1,Dinheiro,402.09
+USER0728,5,Kit de Montagem,Robótica,Norte,31,3411.04,17/09/2023,9,Transferência Bancária,615.92
+USER0729,4,Controle de Acesso,Segurança,Centro-Oeste,48,1855.93,03/12/2023,1,Transferência Bancária,0.0
+USER0730,4,Atuador,Automação,Sudeste,51,2751.23,23/02/2023,9,Dinheiro,0.0
+USER0731,4,Sensor,Automação,Sudeste,31,1122.98,02/10/2023,4,Boleto,0.0
+USER0732,4,Impressora,Informática,Norte,24,209.17,05/01/2023,4,Boleto,37.94
+USER0733,4,Repetidor,Redes,Centro-Oeste,22,777.52,23/05/2023,4,Dinheiro,228.44
+USER0734,3,Motor de Passo,Robótica,Nordeste,50,2392.62,29/04/2023,2,Cartão de Crédito,0.0
+USER0735,3,Detector de Fumaça,Segurança,Sul,65,995.33,31/05/2023,4,Boleto,152.25
+USER0736,5,Kit de Montagem,Robótica,Nordeste,25,2858.72,26/11/2023,9,Transferência Bancária,0.0
+USER0737,2,Televisão,Eletrônicos,Centro-Oeste,44,2240.28,12/12/2023,5,Pix,304.73
+USER0738,1,Controlador,Automação,Sudeste,48,4499.01,24/12/2023,5,Boleto,1288.52
+USER0739,1,Roteador,Redes,Sudeste,40,3586.12,18/10/2023,4,Cartão de Crédito,604.33
+USER0740,1,Atuador,Automação,Norte,49,965.36,13/02/2023,3,Cartão de Crédito,0.0
+USER0741,5,CLP,Automação,Norte,66,374.22,06/06/2023,6,Transferência Bancária,0.0
+USER0742,3,Controle de Acesso,Segurança,Sul,68,4433.05,04/11/2023,2,Cartão de Crédito,1030.54
+USER0743,1,Placa Controladora,Robótica,Norte,34,3568.36,05/03/2023,1,Dinheiro,0.0
+USER0744,1,CLP,Automação,Sul,59,2685.85,19/05/2023,7,Cartão de Crédito,0.0
+USER0745,4,Sensor,Automação,Centro-Oeste,49,898.82,19/10/2023,5,Cartão de Crédito,5.12
+USER0746,4,Sensor de Movimento,Robótica,Sudeste,39,4616.12,12/01/2023,6,Cartão de Crédito,0.0
+USER0747,3,Monitor,Informática,Norte,64,4549.71,15/04/2023,1,Transferência Bancária,0.0
+USER0748,2,Tablet,Eletrônicos,Sul,35,4655.05,29/07/2023,6,Pix,0.0
+USER0749,5,Smartwatch,Eletrônicos,Centro-Oeste,28,1358.65,11/06/2023,1,Pix,0.0
+USER0750,3,Desktop,Informática,Sul,18,4697.5,28/09/2023,7,Dinheiro,1240.92
+USER0751,2,Teclado,Informática,Sudeste,67,3660.35,25/01/2023,5,Dinheiro,0.0
+USER0752,1,Switch,Redes,Nordeste,31,2100.15,06/06/2023,1,Transferência Bancária,0.0
+USER0753,5,Drone,Eletrônicos,Sudeste,45,2907.78,10/03/2023,3,Dinheiro,0.0
+USER0754,5,Sensor de Movimento,Robótica,Centro-Oeste,61,1088.08,03/12/2023,8,Pix,229.33
+USER0755,3,Smartphone,Eletrônicos,Norte,59,3994.18,09/01/2023,5,Pix,941.46
+USER0756,5,CLP,Automação,Norte,65,474.04,02/08/2023,1,Transferência Bancária,0.0
+USER0757,2,CLP,Automação,Norte,24,990.29,13/06/2023,8,Pix,0.0
+USER0758,3,Braço Robótico,Robótica,Centro-Oeste,46,2086.62,26/12/2023,8,Transferência Bancária,587.79
+USER0759,4,Teclado,Informática,Centro-Oeste,62,3575.43,03/02/2023,3,Dinheiro,505.58
+USER0760,5,Kit de Montagem,Robótica,Sul,66,3909.62,02/05/2023,5,Cartão de Crédito,0.0
+USER0761,1,Sensor de Movimento,Robótica,Nordeste,24,1424.3,11/09/2023,3,Pix,0.0
+USER0762,5,Fechadura Digital,Segurança,Nordeste,67,1358.73,29/11/2023,4,Dinheiro,0.0
+USER0763,4,Servo Motor,Automação,Norte,53,598.2,22/04/2023,9,Dinheiro,0.0
+USER0764,3,Fechadura Digital,Segurança,Centro-Oeste,19,4002.09,14/11/2023,6,Transferência Bancária,0.0
+USER0765,1,Detector de Fumaça,Segurança,Nordeste,40,4203.43,22/10/2023,8,Cartão de Crédito,0.0
+USER0766,4,Controle de Acesso,Segurança,Nordeste,67,2499.65,14/07/2023,3,Dinheiro,0.0
+USER0767,5,Roteador,Redes,Sudeste,46,4081.27,30/01/2023,3,Dinheiro,14.59
+USER0768,3,Kit de Montagem,Robótica,Centro-Oeste,68,790.92,12/02/2023,1,Transferência Bancária,0.0
+USER0769,1,Drone,Eletrônicos,Norte,29,936.1,16/05/2023,4,Pix,131.4
+USER0770,3,Tablet,Eletrônicos,Centro-Oeste,48,3636.9,29/04/2023,8,Cartão de Crédito,0.0
+USER0771,1,Braço Robótico,Robótica,Sul,68,896.85,24/11/2023,3,Dinheiro,0.0
+USER0772,1,Modem,Redes,Sudeste,30,1268.09,27/05/2023,4,Pix,0.0
+USER0773,1,Detector de Fumaça,Segurança,Sudeste,34,361.8,20/09/2023,4,Boleto,0.0
+USER0774,1,Modem,Redes,Norte,26,954.8,18/02/2023,3,Transferência Bancária,0.0
+USER0775,3,Drone,Eletrônicos,Sudeste,55,3548.93,27/04/2023,7,Pix,18.19
+USER0776,3,Tablet,Eletrônicos,Nordeste,35,3808.18,05/01/2023,5,Cartão de Crédito,0.0
+USER0777,4,Sensor,Automação,Sul,42,3820.35,16/07/2023,7,Transferência Bancária,0.0
+USER0778,4,Modem,Redes,Norte,65,1451.0,06/05/2023,6,Cartão de Crédito,0.0
+USER0779,2,Switch,Redes,Sul,51,1537.57,29/05/2023,1,Boleto,313.11
+USER0780,5,Tablet,Eletrônicos,Sudeste,37,1724.65,15/04/2023,7,Transferência Bancária,0.0
+USER0781,4,Placa Controladora,Robótica,Sul,34,4827.5,13/04/2023,8,Pix,0.0
+USER0782,4,Controlador,Automação,Nordeste,57,501.52,02/04/2023,4,Cartão de Crédito,17.1
+USER0783,2,Roteador,Redes,Nordeste,41,1403.86,30/05/2023,5,Cartão de Crédito,317.53
+USER0784,3,Kit de Montagem,Robótica,Nordeste,47,2757.83,20/03/2023,7,Dinheiro,0.0
+USER0785,4,Servo Motor,Automação,Sudeste,66,2645.83,02/10/2023,8,Pix,96.6
+USER0786,2,Smartwatch,Eletrônicos,Sul,40,1135.26,26/02/2023,5,Transferência Bancária,0.0
+USER0787,4,Câmera,Segurança,Sul,63,1979.58,07/01/2023,6,Transferência Bancária,0.0
+USER0788,2,CLP,Automação,Sudeste,43,3822.84,27/01/2023,1,Cartão de Crédito,0.0
+USER0789,3,Controlador,Automação,Sul,64,1704.03,23/12/2023,4,Boleto,20.28
+USER0790,4,Modem,Redes,Norte,58,783.11,04/08/2023,6,Boleto,15.5
+USER0791,4,Motor de Passo,Robótica,Norte,34,2099.75,29/06/2023,8,Dinheiro,0.0
+USER0792,3,Detector de Fumaça,Segurança,Centro-Oeste,31,1261.75,30/03/2023,8,Pix,300.3
+USER0793,2,Desktop,Informática,Nordeste,35,4976.44,31/12/2023,5,Cartão de Crédito,0.0
+USER0794,1,Placa Controladora,Robótica,Sul,58,4372.27,30/08/2023,9,Dinheiro,1303.93
+USER0795,5,Motor de Passo,Robótica,Sudeste,18,3903.37,15/08/2023,3,Boleto,130.06
+USER0796,1,Drone,Eletrônicos,Norte,38,1623.61,27/11/2023,7,Cartão de Crédito,0.0
+USER0797,1,Motor de Passo,Robótica,Norte,20,1351.69,16/02/2023,5,Cartão de Crédito,171.25
+USER0798,3,Drone,Eletrônicos,Nordeste,62,1147.21,09/04/2023,7,Boleto,0.0
+USER0799,1,Televisão,Eletrônicos,Sul,30,3032.64,07/02/2023,5,Cartão de Crédito,158.16
+USER0800,2,Braço Robótico,Robótica,Centro-Oeste,56,2585.2,15/02/2023,3,Transferência Bancária,322.05
+USER0801,2,Repetidor,Redes,Sudeste,58,4094.68,14/03/2023,3,Transferência Bancária,22.86
+USER0802,1,Braço Robótico,Robótica,Norte,36,1731.64,14/05/2023,2,Transferência Bancária,0.0
+USER0803,2,Repetidor,Redes,Norte,31,2860.5,08/03/2023,2,Transferência Bancária,564.18
+USER0804,4,Atuador,Automação,Sudeste,19,4428.39,05/04/2023,5,Transferência Bancária,0.0
+USER0805,2,Atuador,Automação,Norte,49,3274.12,06/03/2023,7,Boleto,903.37
+USER0806,2,Notebook,Informática,Nordeste,61,2510.7,25/03/2023,3,Boleto,0.0
+USER0807,5,Monitor,Informática,Sul,26,4579.02,01/09/2023,4,Boleto,0.0
+USER0808,1,Servo Motor,Automação,Nordeste,54,3722.2,24/01/2023,4,Boleto,521.13
+USER0809,2,Desktop,Informática,Norte,42,144.21,29/11/2023,5,Cartão de Crédito,19.4
+USER0810,3,Alarme,Segurança,Sul,61,847.13,18/06/2023,8,Boleto,230.88
+USER0811,4,Atuador,Automação,Sul,25,128.12,28/04/2023,9,Cartão de Crédito,34.37
+USER0812,2,Teclado,Informática,Sudeste,52,2870.12,09/02/2023,7,Dinheiro,110.26
+USER0813,2,Alarme,Segurança,Centro-Oeste,24,3412.44,15/04/2023,8,Cartão de Crédito,0.0
+USER0814,2,Atuador,Automação,Norte,34,1797.92,19/02/2023,6,Boleto,232.69
+USER0815,3,Access Point,Redes,Sudeste,26,502.53,12/02/2023,8,Cartão de Crédito,0.0
+USER0816,3,Controlador,Automação,Centro-Oeste,28,4701.11,07/11/2023,8,Pix,0.0
+USER0817,4,Sensor,Automação,Centro-Oeste,37,81.37,07/01/2023,4,Dinheiro,0.0
+USER0818,5,Servo Motor,Automação,Nordeste,47,4490.85,22/11/2023,2,Boleto,1050.34
+USER0819,3,Sensor,Automação,Sul,32,4401.16,29/06/2023,6,Dinheiro,0.0
+USER0820,3,Fechadura Digital,Segurança,Nordeste,49,2500.95,19/11/2023,3,Dinheiro,349.54
+USER0821,4,Repetidor,Redes,Norte,27,793.89,25/01/2023,9,Boleto,0.0
+USER0822,2,Detector de Fumaça,Segurança,Nordeste,62,2995.13,04/09/2023,2,Transferência Bancária,735.25
+USER0823,2,Smartwatch,Eletrônicos,Sudeste,23,1844.9,18/10/2023,1,Boleto,0.0
+USER0824,4,Braço Robótico,Robótica,Sul,48,4636.74,28/03/2023,4,Dinheiro,909.54
+USER0825,1,Monitor,Informática,Centro-Oeste,58,470.24,21/09/2023,1,Dinheiro,70.42
+USER0826,3,Notebook,Informática,Nordeste,26,520.15,15/10/2023,6,Boleto,0.0
+USER0827,1,Teclado,Informática,Norte,45,4982.76,31/07/2023,9,Boleto,592.0
+USER0828,3,Placa Controladora,Robótica,Sul,20,1637.56,24/09/2023,2,Dinheiro,473.35
+USER0829,5,Detector de Fumaça,Segurança,Centro-Oeste,63,2334.03,29/05/2023,3,Cartão de Crédito,246.55
+USER0830,4,Braço Robótico,Robótica,Nordeste,35,3921.97,06/11/2023,5,Pix,513.66
+USER0831,2,Sensor,Automação,Sudeste,67,524.35,17/09/2023,7,Cartão de Crédito,0.0
+USER0832,1,Alarme,Segurança,Sudeste,43,2522.86,28/10/2023,4,Transferência Bancária,0.0
+USER0833,5,Controlador,Automação,Nordeste,60,742.05,06/04/2023,7,Cartão de Crédito,85.65
+USER0834,3,Alarme,Segurança,Nordeste,33,1136.56,01/08/2023,4,Cartão de Crédito,38.68
+USER0835,3,Tablet,Eletrônicos,Sul,59,1260.6,16/01/2023,7,Boleto,0.0
+USER0836,5,Sensor de Movimento,Robótica,Nordeste,27,1919.57,12/10/2023,5,Pix,564.58
+USER0837,2,Kit de Montagem,Robótica,Norte,61,2351.77,08/03/2023,1,Pix,156.7
+USER0838,3,Atuador,Automação,Norte,61,3637.7,05/01/2023,8,Pix,777.83
+USER0839,4,Servo Motor,Automação,Nordeste,48,4975.7,24/05/2023,4,Cartão de Crédito,746.98
+USER0840,4,Modem,Redes,Sudeste,50,3069.51,02/10/2023,5,Pix,0.0
+USER0841,4,Sensor,Automação,Sudeste,66,4441.09,14/06/2023,7,Pix,0.0
+USER0842,5,Smartwatch,Eletrônicos,Centro-Oeste,52,2816.31,01/11/2023,6,Transferência Bancária,186.02
+USER0843,2,Atuador,Automação,Nordeste,64,660.35,21/11/2023,1,Cartão de Crédito,0.0
+USER0844,2,Sensor de Movimento,Robótica,Centro-Oeste,28,1087.2,26/08/2023,6,Dinheiro,267.46
+USER0845,3,Smartphone,Eletrônicos,Centro-Oeste,31,3299.85,11/12/2023,6,Cartão de Crédito,0.0
+USER0846,4,Smartphone,Eletrônicos,Sudeste,59,690.68,13/04/2023,3,Cartão de Crédito,0.0
+USER0847,5,Atuador,Automação,Sudeste,54,1210.07,30/09/2023,5,Cartão de Crédito,0.0
+USER0848,2,Tablet,Eletrônicos,Norte,23,4490.08,25/08/2023,4,Dinheiro,1045.67
+USER0849,4,Sensor,Automação,Nordeste,36,4787.05,06/01/2023,4,Transferência Bancária,635.6
+USER0850,4,Access Point,Redes,Centro-Oeste,56,747.58,24/12/2023,3,Transferência Bancária,3.41
+USER0851,5,Motor de Passo,Robótica,Centro-Oeste,33,4917.31,22/10/2023,4,Dinheiro,0.0
+USER0852,4,Braço Robótico,Robótica,Nordeste,19,2040.46,30/08/2023,8,Cartão de Crédito,0.0
+USER0853,3,CLP,Automação,Sudeste,65,4371.67,14/03/2023,5,Boleto,283.19
+USER0854,5,Teclado,Informática,Sul,65,3210.38,18/10/2023,5,Cartão de Crédito,247.16
+USER0855,1,Sensor,Automação,Centro-Oeste,29,3029.22,15/07/2023,3,Cartão de Crédito,0.0
+USER0856,1,Repetidor,Redes,Centro-Oeste,37,513.71,18/03/2023,3,Transferência Bancária,0.0
+USER0857,2,Controlador,Automação,Norte,32,1528.65,14/02/2023,8,Boleto,0.0
+USER0858,5,Tablet,Eletrônicos,Nordeste,46,1614.28,09/07/2023,4,Dinheiro,0.0
+USER0859,5,Controle de Acesso,Segurança,Nordeste,24,1244.38,22/11/2023,5,Dinheiro,0.0
+USER0860,2,Braço Robótico,Robótica,Sudeste,30,3269.75,03/11/2023,9,Transferência Bancária,0.0
+USER0861,3,Controle de Acesso,Segurança,Sudeste,41,3311.12,11/06/2023,5,Boleto,689.81
+USER0862,5,Repetidor,Redes,Norte,58,3691.08,10/04/2023,2,Transferência Bancária,276.38
+USER0863,2,Modem,Redes,Norte,48,1783.69,04/02/2023,5,Boleto,0.0
+USER0864,3,Repetidor,Redes,Sul,50,3169.27,08/03/2023,3,Boleto,0.0
+USER0865,4,Atuador,Automação,Sudeste,29,4960.33,21/02/2023,4,Dinheiro,978.08
+USER0866,4,Access Point,Redes,Nordeste,27,3292.06,24/01/2023,1,Dinheiro,214.51
+USER0867,3,Braço Robótico,Robótica,Sul,63,2093.47,17/06/2023,7,Boleto,585.95
+USER0868,4,Desktop,Informática,Sudeste,59,4473.7,29/09/2023,9,Cartão de Crédito,0.0
+USER0869,2,Modem,Redes,Centro-Oeste,28,3049.73,21/12/2023,3,Boleto,201.84
+USER0870,4,Televisão,Eletrônicos,Nordeste,35,2163.39,04/12/2023,5,Cartão de Crédito,212.62
+USER0871,4,Teclado,Informática,Centro-Oeste,24,4528.09,10/06/2023,9,Boleto,360.87
+USER0872,4,Televisão,Eletrônicos,Sudeste,68,1572.81,03/08/2023,4,Transferência Bancária,0.0
+USER0873,4,Desktop,Informática,Sudeste,21,1714.03,08/05/2023,4,Transferência Bancária,74.82
+USER0874,4,Braço Robótico,Robótica,Centro-Oeste,43,396.2,25/04/2023,9,Transferência Bancária,86.08
+USER0875,1,Câmera,Segurança,Norte,69,1817.98,12/07/2023,3,Transferência Bancária,0.0
+USER0876,4,Sensor de Movimento,Robótica,Norte,51,3818.24,26/10/2023,2,Pix,813.09
+USER0877,4,Smartphone,Eletrônicos,Sul,51,1865.61,11/03/2023,7,Boleto,0.0
+USER0878,3,Modem,Redes,Sul,67,2796.56,24/05/2023,7,Cartão de Crédito,450.73
+USER0879,5,Placa Controladora,Robótica,Centro-Oeste,57,1072.9,28/03/2023,9,Pix,55.16
+USER0880,3,Impressora,Informática,Centro-Oeste,43,2228.18,21/03/2023,4,Boleto,0.0
+USER0881,5,Sensor,Automação,Sul,56,2307.83,02/11/2023,8,Boleto,328.54
+USER0882,2,Desktop,Informática,Centro-Oeste,55,2418.04,22/08/2023,6,Cartão de Crédito,0.0
+USER0883,1,Modem,Redes,Nordeste,21,2804.74,18/03/2023,2,Transferência Bancária,58.15
+USER0884,4,Kit de Montagem,Robótica,Sudeste,55,3701.56,09/08/2023,9,Cartão de Crédito,934.73
+USER0885,5,Controlador,Automação,Norte,53,768.37,03/08/2023,1,Transferência Bancária,111.98
+USER0886,4,Sensor de Movimento,Robótica,Nordeste,23,4073.81,28/05/2023,5,Pix,129.17
+USER0887,1,Servo Motor,Automação,Sudeste,37,461.03,13/07/2023,1,Cartão de Crédito,58.99
+USER0888,4,Câmera,Segurança,Norte,27,3505.37,12/05/2023,9,Transferência Bancária,954.8
+USER0889,5,Switch,Redes,Centro-Oeste,68,1800.37,03/06/2023,6,Boleto,167.48
+USER0890,2,Detector de Fumaça,Segurança,Norte,45,2696.98,22/04/2023,1,Transferência Bancária,0.0
+USER0891,4,Smartwatch,Eletrônicos,Norte,18,3031.97,13/11/2023,5,Transferência Bancária,0.0
+USER0892,5,Roteador,Redes,Centro-Oeste,57,1878.06,01/06/2023,1,Transferência Bancária,517.39
+USER0893,4,Notebook,Informática,Centro-Oeste,40,1643.15,27/04/2023,4,Dinheiro,487.77
+USER0894,1,Sensor,Automação,Sudeste,32,3164.91,30/12/2023,6,Dinheiro,162.16
+USER0895,3,Access Point,Redes,Sudeste,19,2637.17,08/06/2023,1,Transferência Bancária,0.0
+USER0896,3,Switch,Redes,Sul,25,3940.54,30/11/2023,1,Pix,0.0
+USER0897,1,Tablet,Eletrônicos,Sul,54,2486.59,22/12/2023,7,Cartão de Crédito,0.0
+USER0898,1,Tablet,Eletrônicos,Nordeste,59,195.04,27/09/2023,8,Dinheiro,43.3
+USER0899,3,Controle de Acesso,Segurança,Sul,44,626.56,16/07/2023,1,Boleto,33.05
+USER0900,4,Roteador,Redes,Centro-Oeste,24,3136.8,02/07/2023,5,Dinheiro,0.0
+USER0901,5,Controlador,Automação,Nordeste,41,1027.28,08/07/2023,6,Dinheiro,183.09
+USER0902,4,Modem,Redes,Sudeste,53,2507.19,27/11/2023,2,Cartão de Crédito,0.0
+USER0903,5,Repetidor,Redes,Sudeste,51,1102.81,03/03/2023,5,Cartão de Crédito,163.98
+USER0904,1,Modem,Redes,Sul,36,3174.87,07/05/2023,4,Cartão de Crédito,816.19
+USER0905,2,Controlador,Automação,Centro-Oeste,24,94.29,02/08/2023,5,Dinheiro,7.74
+USER0906,5,Servo Motor,Automação,Centro-Oeste,39,3347.16,17/10/2023,5,Transferência Bancária,621.35
+USER0907,4,Alarme,Segurança,Nordeste,38,795.93,11/09/2023,6,Transferência Bancária,70.19
+USER0908,2,Access Point,Redes,Nordeste,23,2700.21,28/10/2023,8,Transferência Bancária,0.0
+USER0909,4,Detector de Fumaça,Segurança,Sul,59,1044.75,27/01/2023,6,Cartão de Crédito,0.0
+USER0910,5,Smartphone,Eletrônicos,Sul,53,2736.37,26/06/2023,9,Boleto,50.14
+USER0911,3,Repetidor,Redes,Centro-Oeste,51,4098.41,05/03/2023,5,Boleto,1009.26
+USER0912,5,Drone,Eletrônicos,Nordeste,67,1900.28,27/05/2023,9,Cartão de Crédito,159.54
+USER0913,3,Teclado,Informática,Norte,33,4994.72,01/09/2023,3,Boleto,232.79
+USER0914,5,Alarme,Segurança,Nordeste,27,713.91,25/09/2023,7,Dinheiro,45.01
+USER0915,5,Desktop,Informática,Sul,46,613.94,05/11/2023,6,Transferência Bancária,23.4
+USER0916,3,Impressora,Informática,Nordeste,45,3967.13,16/09/2023,9,Cartão de Crédito,0.0
+USER0917,2,Kit de Montagem,Robótica,Sudeste,20,3094.71,12/07/2023,9,Transferência Bancária,771.98
+USER0918,5,Access Point,Redes,Centro-Oeste,69,2258.66,11/06/2023,5,Cartão de Crédito,0.0
+USER0919,3,Servo Motor,Automação,Centro-Oeste,44,4541.39,08/04/2023,3,Pix,431.74
+USER0920,5,Desktop,Informática,Sul,60,3105.55,12/08/2023,4,Pix,36.51
+USER0921,1,Smartphone,Eletrônicos,Centro-Oeste,29,2492.57,17/09/2023,2,Boleto,468.28
+USER0922,3,Roteador,Redes,Norte,35,1463.14,24/04/2023,8,Boleto,0.0
+USER0923,4,Desktop,Informática,Nordeste,60,4139.47,05/04/2023,4,Pix,737.96
+USER0924,3,Alarme,Segurança,Norte,25,1259.54,20/11/2023,9,Cartão de Crédito,91.85
+USER0925,3,Alarme,Segurança,Norte,27,1940.61,18/09/2023,9,Dinheiro,446.41
+USER0926,4,Motor de Passo,Robótica,Sudeste,36,93.24,07/07/2023,3,Boleto,0.0
+USER0927,1,Impressora,Informática,Nordeste,67,1208.29,09/06/2023,7,Boleto,221.82
+USER0928,4,Alarme,Segurança,Sul,30,1576.99,19/10/2023,3,Transferência Bancária,94.42
+USER0929,5,Teclado,Informática,Centro-Oeste,69,1977.6,24/05/2023,7,Transferência Bancária,497.58
+USER0930,4,Switch,Redes,Norte,33,4712.67,27/11/2023,7,Cartão de Crédito,968.3
+USER0931,5,Controle de Acesso,Segurança,Sul,48,1904.02,04/07/2023,3,Pix,234.49
+USER0932,1,Atuador,Automação,Sul,62,1350.48,13/12/2023,2,Boleto,0.0
+USER0933,1,Fechadura Digital,Segurança,Centro-Oeste,27,418.01,03/12/2023,8,Boleto,0.0
+USER0934,3,Switch,Redes,Centro-Oeste,51,4580.08,23/09/2023,6,Pix,292.9
+USER0935,2,Tablet,Eletrônicos,Nordeste,59,1052.25,18/05/2023,9,Dinheiro,0.0
+USER0936,4,Roteador,Redes,Norte,62,2633.52,10/12/2023,9,Cartão de Crédito,0.0
+USER0937,3,Atuador,Automação,Sul,56,3840.39,27/06/2023,8,Transferência Bancária,0.0
+USER0938,1,Smartwatch,Eletrônicos,Norte,68,3522.61,01/02/2023,7,Cartão de Crédito,0.0
+USER0939,3,Alarme,Segurança,Nordeste,57,1301.85,04/02/2023,5,Boleto,323.02
+USER0940,5,Tablet,Eletrônicos,Centro-Oeste,19,465.47,24/12/2023,4,Boleto,78.36
+USER0941,2,Monitor,Informática,Norte,36,2522.2,31/05/2023,2,Dinheiro,0.0
+USER0942,2,Controle de Acesso,Segurança,Nordeste,36,840.62,25/06/2023,1,Boleto,108.62
+USER0943,4,CLP,Automação,Norte,59,1018.75,22/10/2023,6,Dinheiro,279.32
+USER0944,3,Tablet,Eletrônicos,Norte,28,171.51,25/01/2023,3,Dinheiro,0.0
+USER0945,1,Braço Robótico,Robótica,Centro-Oeste,51,2764.11,11/09/2023,1,Transferência Bancária,327.0
+USER0946,1,Smartwatch,Eletrônicos,Centro-Oeste,45,4262.01,08/09/2023,8,Pix,773.39
+USER0947,4,Placa Controladora,Robótica,Centro-Oeste,53,3122.96,21/03/2023,1,Boleto,235.16
+USER0948,3,Monitor,Informática,Norte,47,3214.26,10/09/2023,3,Dinheiro,0.0
+USER0949,1,Servo Motor,Automação,Sul,36,3274.72,04/05/2023,9,Pix,779.78
+USER0950,3,Monitor,Informática,Sudeste,23,231.85,13/12/2023,7,Dinheiro,25.13
+USER0951,1,Atuador,Automação,Sudeste,43,2910.42,13/11/2023,2,Transferência Bancária,0.0
+USER0952,5,Detector de Fumaça,Segurança,Sudeste,59,3387.35,31/10/2023,4,Dinheiro,0.0
+USER0953,5,Access Point,Redes,Centro-Oeste,27,3991.37,15/04/2023,3,Pix,426.57
+USER0954,2,Roteador,Redes,Norte,57,765.79,27/05/2023,1,Pix,20.38
+USER0955,4,Impressora,Informática,Norte,47,3505.76,13/07/2023,4,Boleto,196.87
+USER0956,4,Servo Motor,Automação,Nordeste,69,1680.77,03/01/2023,2,Dinheiro,262.42
+USER0957,4,Desktop,Informática,Norte,43,2094.4,28/02/2023,1,Cartão de Crédito,0.0
+USER0958,3,Monitor,Informática,Nordeste,48,1757.93,25/03/2023,8,Dinheiro,218.06
+USER0959,1,Modem,Redes,Nordeste,58,1691.15,23/09/2023,8,Pix,0.0
+USER0960,3,Braço Robótico,Robótica,Norte,19,1678.22,20/10/2023,2,Transferência Bancária,490.77
+USER0961,3,Access Point,Redes,Nordeste,60,2942.58,08/12/2023,9,Dinheiro,234.7
+USER0962,3,Sensor,Automação,Norte,64,2368.13,07/06/2023,6,Transferência Bancária,584.52
+USER0963,3,Smartwatch,Eletrônicos,Sul,50,1458.85,10/08/2023,4,Pix,0.0
+USER0964,3,Detector de Fumaça,Segurança,Sul,31,1222.4,02/11/2023,8,Pix,142.19
+USER0965,5,Motor de Passo,Robótica,Sudeste,60,159.14,09/02/2023,6,Transferência Bancária,0.0
+USER0966,2,Drone,Eletrônicos,Sudeste,60,4011.71,16/09/2023,8,Pix,804.46
+USER0967,1,Placa Controladora,Robótica,Nordeste,32,2369.67,30/03/2023,6,Cartão de Crédito,600.62
+USER0968,3,CLP,Automação,Nordeste,36,2935.48,16/12/2023,2,Pix,453.67
+USER0969,2,Detector de Fumaça,Segurança,Centro-Oeste,24,3050.95,13/08/2023,7,Pix,694.04
+USER0970,3,Teclado,Informática,Sul,61,3229.39,19/01/2023,4,Pix,0.0
+USER0971,5,Sensor,Automação,Sul,26,2093.43,09/08/2023,6,Pix,0.0
+USER0972,2,Controle de Acesso,Segurança,Centro-Oeste,19,4396.21,04/02/2023,4,Dinheiro,1082.63
+USER0973,2,Modem,Redes,Sudeste,47,1183.3,21/10/2023,2,Pix,0.0
+USER0974,1,Braço Robótico,Robótica,Sudeste,46,1619.74,27/12/2023,2,Pix,455.84
+USER0975,2,Tablet,Eletrônicos,Centro-Oeste,26,3625.71,11/12/2023,5,Transferência Bancária,0.0
+USER0976,3,Detector de Fumaça,Segurança,Sul,43,2792.98,14/11/2023,8,Dinheiro,0.0
+USER0977,2,Braço Robótico,Robótica,Centro-Oeste,40,3817.33,09/08/2023,1,Boleto,0.0
+USER0978,4,Sensor,Automação,Centro-Oeste,55,2497.62,17/04/2023,8,Dinheiro,0.0
+USER0979,2,Câmera,Segurança,Nordeste,24,4849.79,08/11/2023,8,Cartão de Crédito,878.05
+USER0980,4,Teclado,Informática,Nordeste,34,4199.73,27/02/2023,1,Dinheiro,282.96
+USER0981,5,Roteador,Redes,Sul,61,4711.72,26/04/2023,4,Pix,0.0
+USER0982,3,Smartphone,Eletrônicos,Sudeste,69,1108.98,18/08/2023,6,Dinheiro,0.0
+USER0983,3,Controle de Acesso,Segurança,Nordeste,62,600.26,24/02/2023,8,Cartão de Crédito,96.18
+USER0984,3,Access Point,Redes,Sul,48,2572.75,01/04/2023,1,Transferência Bancária,624.91
+USER0985,2,Desktop,Informática,Sul,22,2175.31,23/02/2023,9,Transferência Bancária,145.15
+USER0986,4,Smartwatch,Eletrônicos,Norte,35,578.77,19/04/2023,4,Pix,156.53
+USER0987,5,Alarme,Segurança,Nordeste,32,3257.34,06/09/2023,2,Boleto,0.0
+USER0988,2,Drone,Eletrônicos,Sul,38,1993.1,30/04/2023,2,Cartão de Crédito,284.12
+USER0989,1,Controle de Acesso,Segurança,Centro-Oeste,31,1633.66,29/12/2023,8,Boleto,0.0
+USER0990,2,Teclado,Informática,Centro-Oeste,25,4272.91,20/06/2023,5,Boleto,0.0
+USER0991,5,Detector de Fumaça,Segurança,Sudeste,51,898.47,02/05/2023,2,Transferência Bancária,92.9
+USER0992,1,Câmera,Segurança,Norte,43,3700.93,01/01/2023,9,Cartão de Crédito,0.0
+USER0993,1,Notebook,Informática,Nordeste,26,3173.82,16/11/2023,5,Transferência Bancária,608.09
+USER0994,2,Access Point,Redes,Sudeste,19,4419.79,26/07/2023,5,Cartão de Crédito,846.48
+USER0995,4,Sensor,Automação,Norte,41,1129.8,30/10/2023,2,Cartão de Crédito,0.0
+USER0996,2,Teclado,Informática,Sul,18,901.74,07/06/2023,7,Transferência Bancária,0.0
+USER0997,4,Sensor,Automação,Sul,36,541.53,30/01/2023,3,Transferência Bancária,129.23
+USER0998,1,Detector de Fumaça,Segurança,Nordeste,32,2258.47,09/07/2023,9,Transferência Bancária,363.59
+USER0999,4,Servo Motor,Automação,Sudeste,37,4580.65,29/07/2023,5,Dinheiro,968.59
